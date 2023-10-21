@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "a333ee219217b5c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25794e3c6d5a9523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6917ece08718c03d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "988eb3a7e87df6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "573d1e682aefe21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed88ea24efe3d290",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbeb1c3c514085f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55eb3ac3fd7cb5f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2494b10ecc2584c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c702d8fcb1911074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d787d2aa25b7efb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50a6145f287877e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb110e7791e502be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "828e31bc3d3932e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6917ece08718c03d",
+  "lastOpenFiles": [
+    "阅读/阅读笔记.md",
+    "听力/听力笔记.md",
+    "听力/179同义替换.pdf",
+    "阅读",
+    "听力/雅思王听力真题语料库.pdf",
+    "听力",
+    "新建文件夹",
+    "雅思王听力真题语料库.pdf",
+    "179同义替换.pdf"
+  ]
+}
