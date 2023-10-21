@@ -1,4 +1,4 @@
-# 一 (2023年10月21日)
+# 一. 2023年10月21日
 * 题型
 	* Part 1 (10题): 填空, 生活场景 (对话), 问答至少1题
 	* Part 2 (10题): 选择, 生活场景 (独白)
@@ -22,13 +22,13 @@
 	4. 英美式拼写不扣分
 * 易错点
 	* 英式发音
-		1. 没有儿化音: budget, bird, farm, hard, dark, parking, garden, 有些可根据语境判断
+		1. 没有儿化音 (r不发音): budget, bird, farm, hard, dark, parking, garden, 有些可根据语境判断
 		2. tory/tery的o/e不发音: factory, history, laboratory, pottery (陶瓷)
 	* 漏听 (原因)
 		1. 审题预判 -> 词汇不熟 (不需要翻译, 只需要预判怎么读)
 		2. 词汇的变化 -> 同义替换
 		3. 句式结构的变化 -> 答案前置
-		4. 答案密集出现 (发音不熟, 拼写不熟)
+		4. 答案密集出现 -> 发音不熟, 拼写不熟
 	* 问答
 		* A: 答案 B: 同意
 	* 生难词
@@ -38,11 +38,11 @@
 			* 吞音: 前一个词以t或d结尾, 后一个单词以辅音开头, goatskin (羊皮)
 * 日常练习
 	* 词汇
-		* [雅思王听力](雅思王听力真题语料库.pdf)
+		* [雅思王听力](obsidian://open?vault=IELTS&file=Listen%2F%E9%9B%85%E6%80%9D%E7%8E%8B%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98%E8%AF%AD%E6%96%99%E5%BA%93.pdf)
 		* 练第三章 (名词, 从3.3开始), 第四章 (形容词, 副词), 达到80%正确率, 十一章 (时间充裕)
 		* 建议每天2-3个test, 跟录音读, 每周前六天复习+新内容, 最后一天复习前六天内容
 	* 同义词替换
-		* [179组同义词替换](179同义替换.pdf)
+		* [179组同义词替换](obsidian://open?vault=IELTS&file=Listen%2F179%E5%90%8C%E4%B9%89%E6%9B%BF%E6%8D%A2.pdf)
 		* 建议每天背5-10组
 **做题流程
 * Part 1
@@ -68,7 +68,7 @@
 		* 数字号码 (666会读triple 6或6+double 6)
 		* 数不大, 但有干扰 (数字划限定, 空前或空后名词)
 		* 字母+数字 (flight, post code, passport)
-		* 数量 (a hundred an{d e}ighty dollars, 连读)
+		* 数量 (a hundred an~~d e~~ighty dollars, 连读)
 	* 支付方式 (按优先级顺序)
 		1. cash
 		2. check/chegue

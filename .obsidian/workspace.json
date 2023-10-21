@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "25794e3c6d5a9523",
+        "id": "21da52a01087a7e6",
         "type": "tabs",
         "children": [
           {
-            "id": "6917ece08718c03d",
+            "id": "c4bf24c5eb621f06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Read/Read Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Read/Read Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Read/Read Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Read/Read Note.md"
+              }
             }
           }
         ]
@@ -138,16 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6917ece08718c03d",
+  "active": "c4bf24c5eb621f06",
   "lastOpenFiles": [
+    "Listen/Listen Note.md",
+    "Read/Read Note.md",
+    "Read/Words.md",
+    "Listen/179同义替换.pdf",
+    "Listen/雅思王听力真题语料库.pdf",
+    "().md",
+    "Read/10.21 阅读词汇.pdf",
+    "Read/10.21 阅读词汇 1.pdf",
+    "Read/10.21 阅读.pdf",
     "阅读/阅读笔记.md",
     "听力/听力笔记.md",
     "听力/179同义替换.pdf",
     "阅读",
     "听力/雅思王听力真题语料库.pdf",
     "听力",
-    "新建文件夹",
-    "雅思王听力真题语料库.pdf",
-    "179同义替换.pdf"
+    "新建文件夹"
   ]
 }
