@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21da52a01087a7e6",
+        "id": "23af26a241b2d0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c4bf24c5eb621f06",
+            "id": "59a607be0bba1068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read/Read Note.md",
+                "file": "Write/Write Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read/Read Note.md",
+                "file": "Write/Write Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read/Read Note.md",
+                "file": "Write/Write Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read/Read Note.md"
+                "file": "Write/Write Note.md"
               }
             }
           }
@@ -146,23 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4bf24c5eb621f06",
+  "active": "59a607be0bba1068",
   "lastOpenFiles": [
+    "Speak/Speak Note.md",
+    "Write/Write Note.md",
+    "Write/雅思写作观点.pdf",
     "Listen/Listen Note.md",
+    "Write/Homework1.png",
     "Read/Read Note.md",
     "Read/Words.md",
-    "Listen/179同义替换.pdf",
+    "Write/Task 1 Practice.png",
+    "Write/Homework 1.png.crdownload",
+    "Write/Homework 1",
+    "Write/新建文件夹",
+    "Speak",
+    "新建文件夹",
+    "Listen/Practice.md",
     "Listen/雅思王听力真题语料库.pdf",
+    "Listen/179同义替换.pdf",
+    "Write",
+    "Listen/同义词.md",
     "().md",
     "Read/10.21 阅读词汇.pdf",
-    "Read/10.21 阅读词汇 1.pdf",
-    "Read/10.21 阅读.pdf",
     "阅读/阅读笔记.md",
-    "听力/听力笔记.md",
-    "听力/179同义替换.pdf",
-    "阅读",
-    "听力/雅思王听力真题语料库.pdf",
-    "听力",
-    "新建文件夹"
+    "听力/听力笔记.md"
   ]
 }
