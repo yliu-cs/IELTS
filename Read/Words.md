@@ -33,3 +33,5 @@ suffer from … (disease) 遭受
 property 财产, 特性
 rented property 租房
 physical/chemical property
+scenery n. 风景
+inclusion n. 包含

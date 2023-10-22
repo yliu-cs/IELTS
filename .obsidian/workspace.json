@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23af26a241b2d0f5",
+        "id": "907f5f7c4a12770d",
         "type": "tabs",
         "children": [
           {
-            "id": "59a607be0bba1068",
+            "id": "4cb353dd7b009373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/Exam Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2494b10ecc2584c0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/Exam Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/Exam Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/Write Note.md"
+                "file": "Listen/Exam Practice.md"
               }
             }
           }
@@ -146,24 +147,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59a607be0bba1068",
+  "active": "4cb353dd7b009373",
   "lastOpenFiles": [
-    "Speak/Speak Note.md",
-    "Write/Write Note.md",
-    "Write/雅思写作观点.pdf",
-    "Listen/Listen Note.md",
-    "Write/Homework1.png",
+    "Listen/Word Practice.md",
+    "Listen/雅思王听力真题语料库.pdf",
     "Read/Read Note.md",
+    "Listen/Exam Practice.md",
+    "Listen/Listen Note.md",
+    "Read/Exam Practice.md",
     "Read/Words.md",
+    "Write/Homework1.png",
+    "Listen/179同义替换.pdf",
+    "Write/Write Note.md",
+    "Speak/Speak Note.md",
+    "Write/雅思写作观点.pdf",
     "Write/Task 1 Practice.png",
     "Write/Homework 1.png.crdownload",
     "Write/Homework 1",
     "Write/新建文件夹",
     "Speak",
     "新建文件夹",
-    "Listen/Practice.md",
-    "Listen/雅思王听力真题语料库.pdf",
-    "Listen/179同义替换.pdf",
     "Write",
     "Listen/同义词.md",
     "().md",

@@ -25,7 +25,8 @@
 * 2023年10月22日
 	* Chapter 3 Test 1 (Error)
 		* advertisement, air, amount, Antarctica, argument, atlas, audience, award, beard, beats, bird, birth, board, brick, brochures, bungalow, burglar
-	* Chapter 3 Test 2
+	* Chapter 3 Test 2 (Error)
+		* cabinet, cable, camel, capsule, carpet, carving, cathedral, cause, cents, century, chair, chance, chancellor, , charity, chart, chat, cheese, chemist's, chin, church, cinema, circle, cliffs, climate, cloth, code, coke, comedy, commercials, commuter, campanion, concert, confidence, confirmation, conqueror, conquest, consultant, contaminants, contamination, convenience, cop, corpse, costume, cot, cottage, cough, crack, craft, creek, crocodile, cupboard, curtain, cutlery, cycle, cycling
 	* 同义替换11-20
 		* 搬, 移动
 			* transfer, move, relocate

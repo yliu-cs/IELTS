@@ -1,3 +1,4 @@
+# 一. 2023年10月22日
 * 题型
 	* TASK 1 (1/3分值, 150词)
 		* 图表类写作
@@ -33,11 +34,12 @@
 * **段落顶行写, 换段空一行**
 * **Task 1 (小作文)**
 	* 图表类型
-		* line graph
-		* pie chart
-		* bar chart
-		* table process diagram
-		* map
+		* Line graph
+		* Bar chart
+		* Pie chart
+		* Table
+		* Process diagram
+		* Map
 	* 图表类别
 		* 动态 (包含时间过程)
 			* 趋势
@@ -257,7 +259,7 @@
 		* Those of ...
 		* The figure for ...
 	* account for 占比
-	* overtook 超过
+	* overtake 超过
 	* 数字+percent (%) percentage 可以做主语
 	* It is expected that the figure will increase. = be expected to
 	* percentage -> small/large, proportion -> high/low or small/large
