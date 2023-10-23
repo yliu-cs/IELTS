@@ -44,3 +44,31 @@
 				* And they also offer **a** special 2-hour course in how to use a knife, they cover all the different skills -- buy**ing** them ~~shopping dropping~~**sharpening, chopping** techniques.
 			* 错误原因
 				* 句式变换, 听到关键词skill时已丢失信息
+* 2023年10月23日
+	* C13-2-1
+		* Tuesdays at 5.30 am, meet at the __
+			* 考点
+				* They are both early morning sessions. ~~this~~**There's** one on Tuesday, and for that one you ~~made~~**meet at** 5.30 am, and the meeting point's the stadium.
+			* 错误原因
+				* 生词stadium
+		* There is not always __ with the group on these rides
+			* 考点
+				* And dose each ride have a leader?
+				* Sometimes, but not always.
+			* 错误原因
+				* 问答, 反应过来always已忘记上句信息
+		* Check and print the __ on the website beforehand
+			* 考点
+				* How would we know where to go?
+				* If you check the club website, you'll see the route for each rides is clearly marked.
+			* 错误原因
+				* route /ruːt/发音不熟
+		* Bikes must have __
+			* 考点
+				* And what do ~~we~~**I** need to bring?
+				* Well, bring a bottle of water and your phone, you should**n't** use it while you **are** cycling, but have **it** with you.
+				* Right.
+				* And in winter, ~~swear~~**it's well** before sunrise when we set out, so you need to make sure your bike's got lights.
+				* That's OK.
+			* 错误原因
+				* have, got 同义替换没定位到

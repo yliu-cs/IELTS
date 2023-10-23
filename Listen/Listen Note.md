@@ -1,5 +1,4 @@
-# 一. 2023年10月21日
-* 题型
+* **题型**
 	* Part 1 (10题): 填空, 生活场景 (对话), 问答至少1题
 	* Part 2 (10题): 选择, 生活场景 (独白)
 	* Part 3 (10题): 选择 (单选, 多选, 匹配), 学术场景 (对话), 有几题问答
@@ -13,14 +12,14 @@
 	* 33 - 34: 7.5
 	* 35 - 37: 8
 	* 38 - 39: 8.5
-* 书写格式
+* **书写格式**
 	1. 大小写不扣分 (国家, 人名, 住址, 日期), 日期的1st, 2nd, 3rd, 11th, 12th, 13th, 21st, 22nd, 23rd, 31st, ... 可以不加 st, nd, ..., 但世纪必须加
 	2. 单复数扣分
 		* 拼写: 元音字母+y结尾直接加s
 		* 发音: birds (ds: /z/), 答案 (s) 双选不正确, 只有录音文稿是正确答案
 	3. 符号不扣分, am, a.m., a.m都正确, 题目如果要求one word则需要加连字符
 	4. 英美式拼写不扣分
-* 易错点
+* **易错点**
 	* 英式发音
 		1. 没有儿化音 (r不发音): budget, bird, farm, hard, dark, parking, garden, 有些可根据语境判断
 		2. tory/tery的o/e不发音: factory, history, laboratory, pottery (陶瓷)
@@ -36,7 +35,7 @@
 		2. 发音不熟 (相同或类似), 根据词性或语境判断 (view/veil, guys/guides)
 		3. 发音现象 (吞音, 连读)
 			* 吞音: 前一个词以t或d结尾, 后一个单词以辅音开头, goatskin (羊皮)
-* 日常练习
+* **日常练习**
 	* 词汇
 		* [雅思王听力](obsidian://open?vault=IELTS&file=Listen%2F%E9%9B%85%E6%80%9D%E7%8E%8B%E5%90%AC%E5%8A%9B%E7%9C%9F%E9%A2%98%E8%AF%AD%E6%96%99%E5%BA%93.pdf)
 		* 练第三章 (名词, 从3.3开始), 第四章 (形容词, 副词), 达到80%正确率, 十一章 (时间充裕)
@@ -44,7 +43,7 @@
 	* 同义词替换
 		* [179组同义词替换](obsidian://open?vault=IELTS&file=Listen%2F179%E5%90%8C%E4%B9%89%E6%9B%BF%E6%8D%A2.pdf)
 		* 建议每天背5-10组
-* Part 1
+* **填空题**
 	* **做题流程**
 		1. 看字数要求
 		2. 看标题词
@@ -58,6 +57,9 @@
 		* 考点 (后面跟答案)
 			1. 179组同义替换
 			2. 同根词
+		* Part 2 or 3
+			* 句子
+			* 表格 (注意横纵方向)
 	* **做题方法**
 		* 单词拼写
 			* 人名, 路名, 地址, 邮箱 (先听整体记开头结尾, 再拼中间)
@@ -68,16 +70,11 @@
 			* 数不大, 但有干扰 (数字划限定, 空前或空后名词)
 			* 字母+数字 (flight, post code, passport)
 			* 数量 (a hundred an~~d e~~ighty dollars, 连读)
-		* 支付方式 (按优先级顺序)
-			1. cash
-			2. check/chegue
-			3. credit card
-			4. bank transfer
-			5. by phone
 		* 句式结构变化
 			1. 词组和从句的互换
 				* __ people = the people who are __
 			2. 空格前没关键定位, 空后的介词短语前置
+			3. 被动语态挖空, 被动变主动, 人后面的名词是答案
 		* 语气 (会引导答案)
 			* how/ what about ... ?
 			* why don't/not ... ?
@@ -85,8 +82,53 @@
 		* 转折
 			* rather than ...
 			* instead of ...
-**作业**
-1. 整理错题 (抄题干，写考点，错误原因)
-2. C12-5-1 P32
-3. C13-1-1 P56
-4. C13-2-1 P62
+		* 支付方式 (按优先级顺序)
+			1. cash
+			2. check/chegue
+			3. credit card
+			4. bank transfer
+			5. by phone
+		* safety (security)
+			* safety rules
+			* safety regulations
+			* safety helmet
+			* safety check
+		* fee
+			* joining fee
+			* annual fee
+		* 同义替换
+			* uncommon <-> special <-> unique <-> unusual
+			* 时间 particularly good time <-> at the moment (替换后跟答案)
+			* shouldn't use ... <-> 别碰 ... <-> 别动 ... <-> 远离 ... <-> 小心 ...
+			* exhibition 展览展示 <-> display show
+			* detail <-> information
+			* enclosed 封闭的 <-> close in
+		* their 后无法确定单复数 (80单数, 20复数)
+		* ... of ... (填of前词) (e.g. model of machine)
+		* for __ (sb. or sth.)
+		* nature reserve 语境 -> 动植物
+		* ed adj.
+		* guided tour 有导游带的出行
+		* during the day != during day hours
+		* fitness
+			* strengthen the muscle
+			* lose weight
+			* reduce the stress
+		* mining 采矿业
+		* village
+		* ladders
+* **作业**
+	* 2023年10月21日
+		1. 整理错题 (抄题干，写考点，错误原因)
+		2. C12-5-1 P32
+		3. C13-1-1 P56
+		4. C13-2-1 P62
+	* 2023年10月23日
+		* 整理题目练习 (注意练抓词)
+			* C11-3-1
+			* C12-7-2
+			* C10-4-2
+			* C10-1-2 (重点听, 练抓词和主被动变化)
+			* C10-1-3
+		* C11-3-3
+		* C11-1-2

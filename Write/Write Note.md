@@ -53,6 +53,9 @@
 		* 图例
 	* 数据描述
 		* 数值
+			* 比例
+				* percentage -> small/large
+				* proportion -> high/low or small/large
 		* 趋势
 			* 上升
 				* 动词
@@ -262,7 +265,6 @@
 	* overtake 超过
 	* 数字+percent (%) percentage 可以做主语
 	* It is expected that the figure will increase. = be expected to
-	* percentage -> small/large, proportion -> high/low or small/large
 	* It can also be seen that ... / Meanwhile, ...
 * 作业
 	* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
