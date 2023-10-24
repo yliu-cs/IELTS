@@ -55,22 +55,48 @@
 		* delight, diary, dictation, dining, disagreement, discipline, disposal, divorce, drum, dust, economy, emperor, encyclopedia, equipment, ethic, excitement, excuse, exercises, exhibition, existence, expert, explanation, exposition, exposure, extension
 	* 同义替换
 		* 健康
-			* fitness, health, medical, sickness, illness, gym
+			* fitness, health, medical, nickness, illness, gym
 		* 传统
 			* tradition, custom, convention, local culture, lifestyle
 		* 娱乐
 			* entertainment, recreation, leisure
 		* 媒体
-			* press, media, TV, newspaper, radio
+			* media, TV, newspaper, radio
 		* 网络
 			* online, internet, website
 		* 宣传
-			* publicity, website, media, news, merketing
+			* publicity, media, website, news, marketing
 		* 照片
 			* picture, photo, photograph, camera, image
 		* 珠宝
-			* jewellery, rings, bracelets, necklaces, precious stones, gem, diamond, luxurious
+			* jewellery, rings, bracelets, necklaces, precious stones, gem, diamond
 		* 艺术品
 			* artwork, painting, drawing, craft
 		* 雕像
 			* statue, sculpture, carving
+* 2023年10月24日
+	* Chapter 3 Test 3 (Error)
+		* delegate, disposal, divorce, draft, dust, elbow, encyclopedia, ethic, examination, excursion, existence, exposition, exposure, extension
+	* Chapter 3 Test 4 (Error)
+		* fare, feast, ferries, field, flight, flood, flooding, flour, fortnight, foyer, fruit, furniture, future, garage, gasoline, germ, gold, golf, grain, green, growth, guest, gulf, habit, handbooks, headache, heading, heart, heating, herb, heroes, heroine, horse, hospital, households
+	* 同义替换
+		* 电影
+			* movie, film, documentary, cinema
+		* 地质学, 地质情况
+			* geology, cliff, fossil, rock, landscape
+		* 乡村的
+			* countryside, rural area
+		* 城市的
+			* urban, city, metropolitan
+		* 海岸线
+			* coastline, shore, seaside
+		* 周围环境
+			* environment, neighborhood, surrounding
+		* 吵闹的
+			* noisy, diturbing, not quite
+		* 容量
+			* capacity, volume, room, space, size
+		* 户外的
+			* outdoor, gardens, park, open air
+		* 住宿
+			* accomodation, living, dwelling, dorm

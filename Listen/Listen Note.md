@@ -103,6 +103,8 @@
 			* exhibition 展览展示 <-> display show
 			* detail <-> information
 			* enclosed 封闭的 <-> close in
+			* learn about <-> talk and slide show about
+			* tailored <-> designed
 		* their 后无法确定单复数 (80单数, 20复数)
 		* ... of ... (填of前词) (e.g. model of machine)
 		* for __ (sb. or sth.)

@@ -1,4 +1,3 @@
-# 一. 2023年10月22日
 * 题型
 	* TASK 1 (1/3分值, 150词)
 		* 图表类写作
@@ -159,14 +158,14 @@
 		* 过去时
 		* 现在时
 		* 将来时 (图标出现未来时间, 或出现词planned, projected)
-			* be expected to
-			* be projected to
-			* be predicted to
-			* be estimated to
-			* be forecasted to
+			* be expected to ...
+			* be projected to ...
+			* be predicted to ...
+			* be estimated to ...
+			* be forecasted to ...
 	* **写作结构 (4段)**
 		* 导言 (1-2)
-			* 替换题目句
+			* 替换题干
 				* percentage <-> proportion
 				* 动词
 					* present information about ...
@@ -252,7 +251,7 @@
 		* around
 		* approximately
 	* 同义替换
-		* family <-> household
+		* family <-> household <-> domestic
 		* spending <-> expenditure/expenses
 		* expenditure <-> cost/pay out for/spend on
 		* particular <-> certain
@@ -261,12 +260,69 @@
 		* The ... in
 		* Those of ...
 		* The figure for ...
+	* 罗列数据
+		* by
+			* 表示幅度
+		* at
+			* 主语是对象词
+			* 跟在指代数据后
+		* with
+			* 形容很大数字的时候
+		* to
+			* 增长或下降多少
+		* ()
+			* 主语不是对象词
+	* 倍数
+		* double
+		* triple
+	* 比较
+		* 动态图
+			* 2倍
+				* double/increased twofold
+			* 3倍
+				* tripled/increased threefold
+		* 静态图
+			* 2倍
+				* twice
+			* 3倍
+				* three times
+	* 分数表示 two thirds, half, quarter, three quarters
 	* account for 占比
 	* overtake 超过
 	* 数字+percent (%) percentage 可以做主语
 	* It is expected that the figure will increase. = be expected to
 	* It can also be seen that ... / Meanwhile, ...
-* 作业
-	* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
-	* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
-	  ![[Homework1.png]]
+	* relatively <-> comparatively
+	* percentage, proportion, figure 单复
+	* 表格
+		* 总计 (如果出现一定要写) 写Overview或主体段1开头, 主体段2结尾
+		* 按趋势分段
+			* 段内按最大, 次大, 最小值写
+	* The percentage of XX in XX was higher than the figures for ... <-> XX was more popular/common in ... than in ...
+* 静态图
+	* while ..., ...
+	* ... by contrast, ...
+	* ... compared with ...
+	* ... was higher than ...
+	* Ther were higher proportion of ... than ...
+	* A higher proportion of ... than ..., with ...
+	* A larger ... than ...
+	* ..., XX(差值) higher than ...
+	* almost XX times as ... as ...
+	* ... was XX-XX (分数) ...
+	* ... considerable XX difference ...
+	* ... showed similar/different pattern, ...
+	* 饼图
+		* Regarding <-> In terms of <-> As for <-> When it comes to
+		* followed by
+		* at the same time
+		* far less than
+* **作业**
+	* 2023年10月22日
+		* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
+		* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+		  ![[Homework1.png]]
+	  * 2023年10月24日
+		  * ![[Homework2_1.png]]
+		  * ![[Homework2_2.png]]
+		  * ![[Homework2_3.png]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90122b5b433cf499",
+        "id": "809921948ae5dfc3",
         "type": "tabs",
         "children": [
           {
-            "id": "c569d8ade1420f49",
+            "id": "882915aeca614e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read/Exam Practice.md",
+                "file": "Write/Write Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read/Exam Practice.md",
+                "file": "Write/Write Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read/Exam Practice.md",
+                "file": "Write/Write Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read/Exam Practice.md"
+                "file": "Write/Write Note.md"
               }
             }
           }
@@ -146,25 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c569d8ade1420f49",
+  "active": "882915aeca614e28",
   "lastOpenFiles": [
-    "Read/Read Note.md",
-    "Speak/Speak Note.md",
-    "Speak/雅思题库2023(09-12).pdf",
-    "Read/Words.md",
-    "Read/Exam Practice.md",
-    "Listen/Word Practice.md",
-    "Write/雅思写作观点.pdf",
-    "Listen/Listen Note.md",
-    "Write/Write Note.md",
     "Write/Exam Practice.md",
+    "Write/雅思写作观点.pdf",
+    "Write/Write Note.md",
+    "Write/Image/Homework2_3.png",
+    "Write/Image/Homework2_2.png",
+    "Write/Image/Homework2_1.png",
+    "Listen/Word Practice.md",
+    "Listen/Listen Note.md",
     "Listen/Exam Practice.md",
+    "Course Schedule.png",
+    "Speak/雅思题库2023(09-12).pdf",
     "Listen/雅思王听力真题语料库.pdf",
+    "Read/Read Note.md",
+    "Read/Exam Practice.md",
+    "Read/Words.md",
+    "Speak/Speak Note.md",
     "Listen/Assets/Archaeology Course.m4a",
     "Listen/Assets/Archaeology course P3.pdf",
     "Listen/Assets",
     "Listen/新建文件夹",
-    "Course Schedule.png",
     "Write/Image/Homework1.png",
     "Write/Image",
     "Listen/179同义替换.pdf",

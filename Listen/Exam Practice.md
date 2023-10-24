@@ -72,3 +72,27 @@
 				* That's OK.
 			* 错误原因
 				* have, got 同义替换没定位到
+	* C11-3-1
+		* Visitors will be able to learn about __ and then collect some.
+			* 考点
+				* And there is going to be a talk and slide show about mushrooms
+			* 错误原因
+				* 同义替换 learn about <-> talk and slide show about
+				* 生词 mushrooms
+	* C12-7-2
+		* one holiday that is specially designed for __
+			* 考点
+				* We offer one which is tailored to the needs of families, which is particularly popular.
+			* 错误原因
+				* 同义替换 tailored <-> designed
+	* C10-4-2
+		* a __ is recommended
+			* 考点
+				* And it’s recommended that you time your visit to coincide with a guided tour.
+			* 错误原因
+				* 连读 guided tour 有导游带的出行
+		* children shouldn't use the __
+			* 考点
+				* Please take care going down the ladders if you wish to visit the lower deck—we don't recommend you allow young children to use them.
+			* 错误原因
+				* 同义替换 shouldn't use <-> take care

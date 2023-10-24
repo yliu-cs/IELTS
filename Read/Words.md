@@ -35,3 +35,4 @@ rented property 租房
 physical/chemical property
 scenery n. 风景
 inclusion n. 包含
+ingredient 成分

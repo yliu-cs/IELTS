@@ -14,3 +14,11 @@
 			* They took it from India, where it was grown, on camels via an overland route to the Mediterranean.
 		* traders took it to __ and sold it to  destinations around
 			* European traders sailed there to purchase their supply of cinnamon, then brought it back to Venice. The spice then travelled from that great trading city to markets all around Europe.
+* 2023年10月24日
+	* C13-3-1 (1-8, 10min)
+		* timber for houses and the making of __
+			*   This is an important source of timber for building houses, and is increasingly being used as a replacement for endangered hardwoods in the furniture construction industry.
+		* (when halved) for __
+			* When broken in half, the shells are also used as bowls in many parts of Asia.
+		* glycerine (an ingredient in __ )
+			*   A derivative of coconut fat, glycerine, acquired strategic importance in a quite different sphere, as Alfred Nobel introduced the world to his nitroglycerine-based invention: dynamite.
