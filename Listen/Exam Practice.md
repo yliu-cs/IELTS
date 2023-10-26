@@ -96,3 +96,21 @@
 				* Please take care going down the ladders if you wish to visit the lower deck—we don't recommend you allow young children to use them.
 			* 错误原因
 				* 同义替换 shouldn't use <-> take care
+	* C10-1-2
+		* New members should describe any __
+			* 考点
+				* You are asked to fill in a questionnaire giving details of any health problems.
+			* 错误原因
+				* 词组抓取不熟, 填入词与预判词性不符
+		* Premier members are given priority __ hours.
+			* 考点
+				* Premier membership is for professional people whose work commitments make it difficult for them to use the club during the day and so LP gives booking preferences to Premier members at peak times.
+			* 错误原因
+				* 同义替换 priority <-> preferences
+				* 长句注意力降低, 信息遗漏
+	* C10-1-3
+		* The professor advises John to make a __ of his design.
+			* 考点
+				* I see. Well, if you want to stand a good chance of winning you really need a model of the machine.
+			* 错误原因
+				* 漏听, a model of machine连读, 且重音在machine

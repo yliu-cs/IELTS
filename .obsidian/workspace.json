@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "809921948ae5dfc3",
+        "id": "cf6a722ed7ac3c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "882915aeca614e28",
+            "id": "75a1380eacf8307b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Listen/179同义替换.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5fc4c3217dbf65a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc368f9b900b919c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/Word Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2494b10ecc2584c0",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/179同义替换.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Listen/179同义替换.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/Write Note.md"
+                "file": "Listen/179同义替换.pdf"
               }
             }
           }
@@ -146,31 +163,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "882915aeca614e28",
+  "active": "75a1380eacf8307b",
   "lastOpenFiles": [
-    "Write/Exam Practice.md",
-    "Write/雅思写作观点.pdf",
-    "Write/Write Note.md",
-    "Write/Image/Homework2_3.png",
-    "Write/Image/Homework2_2.png",
-    "Write/Image/Homework2_1.png",
     "Listen/Word Practice.md",
     "Listen/Listen Note.md",
-    "Listen/Exam Practice.md",
-    "Course Schedule.png",
-    "Speak/雅思题库2023(09-12).pdf",
-    "Listen/雅思王听力真题语料库.pdf",
-    "Read/Read Note.md",
-    "Read/Exam Practice.md",
-    "Read/Words.md",
     "Speak/Speak Note.md",
+    "Listen/Exam Practice.md",
+    "Read/Words.md",
+    "Read/Exam Practice.md",
+    "Read/Read Note.md",
+    "Speak/雅思题库2023(09-12).pdf",
+    "Write/Exam Practice.md",
+    "Write/Write Note.md",
+    "Course Schedule.png",
+    "Listen/雅思王听力真题语料库.pdf",
+    "Listen/179同义替换.pdf",
+    "Write/雅思写作观点.pdf",
+    "Write/Image/Homework2_1.png",
+    "Write/Image/Homework2_3.png",
+    "Write/Image/Homework2_2.png",
     "Listen/Assets/Archaeology Course.m4a",
     "Listen/Assets/Archaeology course P3.pdf",
     "Listen/Assets",
     "Listen/新建文件夹",
     "Write/Image/Homework1.png",
     "Write/Image",
-    "Listen/179同义替换.pdf",
     "Write/Task 1 Practice.png",
     "Write/Homework 1.png.crdownload",
     "Listen/同义词.md",

@@ -95,8 +95,34 @@
 		* 吵闹的
 			* noisy, diturbing, not quite
 		* 容量
-			* capacity, volume, room, space, size
+			* capacity, volume, space, room, size
 		* 户外的
 			* outdoor, gardens, park, open air
 		* 住宿
 			* accomodation, living, dwelling, dorm
+* 2023年10月25日
+	* Chapter 3 Test 4 (Error)
+		* fashion, feast, feather, field, firms, forestry, future, gasoline, golf, grass, guest, gulf, habit, hat, hearing, heart, heroes, heroine, households
+	* Chapter 3 Test 5 (Error)
+		* injection, inland, insomnia, interest, irrigation, jaw, junior, kiosk, koala, lake, laser, lava, leisure, lender, length, lift, line, lion, loss, lounge, loyalty, lunch, lung, maid, male, mane, market, marsh, master, mat, maturiy, maximum, meal, measure, measurement, medicine, medium, mile, mileage, mill, minimum, minute, monopoly, mood, morality, mosquito, motel
+	* 同义替换
+		* 地点
+			* place, where, spot, location, area
+		* 附近的
+			* near, close, not far from, nearby
+		* 偏远的
+			* remote, isolated, distant
+		* 优点
+			* advantage, benefit, positive, good thing, strength
+		* 缺点
+			* disadvantage, drawback, shortcoming, negative, problem
+		* 教育
+			* education, schools, colleges, institution
+		* 公众
+			* ordinary people, people, inhabitants, the public, men and women
+		* 学生
+			* student, pupil, undergraduate, postgraduate
+		* 目标
+			* purpose, aim, goal, target, key areas
+		* 学习
+			* learn, acquire, get, obtain

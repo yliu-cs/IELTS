@@ -317,12 +317,3 @@
 		* followed by
 		* at the same time
 		* far less than
-* **作业**
-	* 2023年10月22日
-		* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
-		* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
-		  ![[Homework1.png]]
-	  * 2023年10月24日
-		  * ![[Homework2_1.png]]
-		  * ![[Homework2_2.png]]
-		  * ![[Homework2_3.png]]
