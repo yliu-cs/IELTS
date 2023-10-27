@@ -31,7 +31,7 @@
 		* 搬, 移动
 			* transfer, move, relocate
 		* 栖息地
-			* habitat, live, terrritory
+			* habitat, live, territory
 		* 国际的
 			* international, countries, continents, global
 		* 出口
@@ -104,7 +104,7 @@
 	* Chapter 3 Test 4 (Error)
 		* fashion, feast, feather, field, firms, forestry, future, gasoline, golf, grass, guest, gulf, habit, hat, hearing, heart, heroes, heroine, households
 	* Chapter 3 Test 5 (Error)
-		* injection, inland, insomnia, interest, irrigation, jaw, junior, kiosk, koala, lake, laser, lava, leisure, lender, length, lift, line, lion, loss, lounge, loyalty, lunch, lung, maid, male, mane, market, marsh, master, mat, maturiy, maximum, meal, measure, measurement, medicine, medium, mile, mileage, mill, minimum, minute, monopoly, mood, morality, mosquito, motel
+		* injection, inland, insomnia, interest, irrigation, jaw, junior, kiosk, koala, lake, laser, lava, leisure, lender, length, lift, line, lion, loss, lounge, loyalty, lunch, lung, maid, male, mane, market, marsh, master, mat, maturity, maximum, meal, measure, measurement, medicine, medium, mile, mileage, mill, minimum, minute, monopoly, mood, morality, mosquito, motel
 	* 同义替换
 		* 地点
 			* place, where, spot, location, area
@@ -126,3 +126,42 @@
 			* purpose, aim, goal, target, key areas
 		* 学习
 			* learn, acquire, get, obtain
+* 2023年10月26日
+	* Chapter 3 Test 5 (Error)
+		* junior, kit, kitchen, kits, lake, lender, length, loss, lounge, mane, market, mat, maturity, mileage, monopoly, morality, mosquito, motel
+	* Chapter 3 Test 6 (Error)
+		* mouth, museum, naught, neck, night, nose, nursery, occupant, oculist, ointment, pal, palace, panic, parcel, park, passenger, pastime, pedestrian, pension, pensioners, pet, pertrol, petroleum, philosopher, physician, pianist, picnic, planners, plans, plate, pocket, poll, pollutant, pollute, pollution
+	* 同义替换
+		* 结构大纲
+			* structure, framework
+		* 参考资料
+			* reference materials, books, journals, magazines
+		* 广泛
+			* extensive, comprehensive, a lot of, many
+		* 能力, 专长
+			* expertise, ability, skill
+		* 团队
+			* group, team
+		* 与……相关
+			* associate, relate to, connect, link
+		* 方法
+			* approach, way, how, method
+		* 鼓励, 促进
+			* motivate, encourage, keep activate, boost, help
+		* 提升
+			* improve, develop, promote
+		* 低估
+			* overlook, underestimate, neglect
+* 2023年10月27日
+	* Chapter 3 Test 1 (Error)
+		* allergy, allowance, Antarctica, aristocrat, atlas, auditorium, bachelor, badge, badminton, baldness, bath, bedsit, bicycle, birth, blouse, bone, breakfast, brick, brochures, bungalow
+	* Chapter 3 Test 2 (Error)
+		* cafe, carpet, castle, cathedral, cause, cents, chapter, chat, chemist's, chin, church, cloth, clothing, code, comedy, commercials, commuter, companion, confirmation, consultant, contaminanls, contamination, convenience, cop, corpse, costume, cot, cottage, cough, council, crack, craft, creek, crocodile, curtain, cutlery
+	* Chapter 3 Test 3 (Error)
+		* disagreement, discipline, disposal, divorce, dust, encyclopedia, examination, excuse, exercises, existence, explanation
+	* Chapter 3 Test 4 (Error)
+		* feast, field, flour, foyer, garage, gasoline, gulf, handache, heroine
+	* Chapter 3 Test 5 (Error)
+		* interest, jaw, jeans, kitchen, koala, lake, lava, lift, lounge, luck, maid, master, maturity, meal, mileage, model, monopoly, morality, mosquitoz
+	* Chapter 3 Test 6 (Error)
+		* moustache, naught, nose, occupant, oculist, ointment, ordinary, pal, palace, parcel, pastime, pedestrian, pension, pensioners, pet, petroleum, philosopher, physician, picnic, plant, pollutant

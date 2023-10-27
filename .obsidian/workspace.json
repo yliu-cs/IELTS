@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf6a722ed7ac3c6f",
+        "id": "b81173157a27d8ba",
         "type": "tabs",
         "children": [
           {
-            "id": "75a1380eacf8307b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Listen/179同义替换.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5fc4c3217dbf65a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc368f9b900b919c",
+            "id": "463c26716371f3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2494b10ecc2584c0",
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Listen/179同义替换.pdf",
+                "file": "Listen/Word Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Listen/179同义替换.pdf",
+                "file": "Listen/Word Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Listen/179同义替换.pdf"
+                "file": "Listen/Word Practice.md"
               }
             }
           }
@@ -163,20 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "75a1380eacf8307b",
+  "active": "463c26716371f3a0",
   "lastOpenFiles": [
-    "Listen/Word Practice.md",
-    "Listen/Listen Note.md",
     "Speak/Speak Note.md",
-    "Listen/Exam Practice.md",
-    "Read/Words.md",
-    "Read/Exam Practice.md",
-    "Read/Read Note.md",
-    "Speak/雅思题库2023(09-12).pdf",
-    "Write/Exam Practice.md",
-    "Write/Write Note.md",
     "Course Schedule.png",
+    "Listen/Word Practice.md",
+    "Listen/Exam Practice.md",
+    "Listen/Listen Note.md",
+    "Write/Write Note.md",
+    "Listen/Real Exam.md",
+    "Read/Read Note.md",
+    "Read/Exam Practice.md",
+    "Real Exam^Archaeology-Course.md",
+    "^Archaeology-Course.md",
     "Listen/雅思王听力真题语料库.pdf",
+    "Read/Words.md",
+    "Write/Exam Practice.md",
+    "Speak/雅思题库2023(09-12).pdf",
     "Listen/179同义替换.pdf",
     "Write/雅思写作观点.pdf",
     "Write/Image/Homework2_1.png",

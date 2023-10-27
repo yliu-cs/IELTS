@@ -81,3 +81,9 @@ racism 种族主义 racist 种族主义者
 itineraries 行程
 packages 套餐
 take over 接管
+eruption 爆发
+spears 矛
+repeal 废除
+obsidian 黑曜石
+cinnamon 肉桂
+trade 贸易

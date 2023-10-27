@@ -114,3 +114,43 @@
 				* I see. Well, if you want to stand a good chance of winning you really need a model of the machine.
 			* 错误原因
 				* 漏听, a model of machine连读, 且重音在machine
+* 2023年10月26日
+	* C11-3-3
+		* Add Malcolm sitting on a tree trunk and __
+			* 考点
+				* And I like the wool hats they're wearing. Maybe you could give each of them a scarf, as well.
+			* 错误原因
+				* 介词短语前置
+				* 句子结构理解错误导致填入词性预判错误
+		* Add a __ for each person
+			* 考点
+				* And I like the wool hats they're wearing. Maybe you could give each of them a scarf, as well.
+				* Yes, that would be fine.
+				* And do you want him watching the other people?
+				* No, he's been left out of all the fun, so I'd like him to be crying - that'll contrast nicely with the next picture, where he's laughing at the clowns in the carnival.
+			* 错误原因
+				* 长对话记忆+理解不足
+				* 生词scarf
+	* C11-1-2
+		* not bring __ into the farm, with certain exceptions
+			* 考点
+				* Now, children of all ages are very welcome here, and usually even very young children love the ducks and lambs, so do bring them along next time you come.
+				* I don't think any of you have brought dogs with you, but in case you have. I'm afraid they'll have to stay in the car park, unless they're guide dogs.
+			* 错误原因
+				* 句意理解不足, 导致信息抓取错误
+	* [[Real Exam#^Archaeology-Course]]
+		* Has three 22 __ modules in first semester
+			* 考点
+				* Well, in the first semester, there are three. All of them are compulsory. We don't offer optional modules till next year.
+			* 错误原因
+				* 选错词
+		* Content: 27 __ and development of built environments
+			* 考点
+				* And as the name suggests, the modules about the origins of built environments and how they developed.
+			* 错误原因
+				* 未注意到提前预判的单复数
+		* Learning method: 50% lab work, 50% 29 __
+			* 考点
+				* Oh, it's half lab work and half seminars.
+			* 错误原因
+				* seminar不熟悉
