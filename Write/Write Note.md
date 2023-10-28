@@ -299,7 +299,7 @@
 		* 按趋势分段
 			* 段内按最大, 次大, 最小值写
 	* The percentage of XX in XX was higher than the figures for ... <-> XX was more popular/common in ... than in ...
-* 静态图
+* **静态图**
 	* while ..., ...
 	* ... by contrast, ...
 	* ... compared with ...
@@ -317,3 +317,57 @@
 		* followed by
 		* at the same time
 		* far less than
+* **流程图**
+	* 题型
+		* 工序图
+			* 被动语态
+			* 没有时间段
+			* 一道工序涉及几种方法
+			* 状语: 工具
+				* 主体段, 按过程中间分段
+		* Ready to be consumed
+		* 动植物生命循环
+			* 主动语态
+			* 不同阶段
+			* 对比不同阶段生物个体
+			* 状语: 时间或地点
+			* 结构
+				* 主体段, 按生长过程中间分段
+			* At the same time, the life cycle of the salmons start anew.
+	* 时间状语
+		* It takes ... to ...
+		* This stage lasts for ...
+		* After a period of ...
+		* For ...
+		* During a period ...
+	* 句子结构
+		* 并列
+			* and
+		* 状语从句
+			* after, before, until, once
+		* 定语从句
+			* where, which, in which
+	* 结构
+		* Introduction
+			* The diagram/picture/figure/flow chart explains the way in which .. is produced for ...
+		* Overview
+			1. The number of stages/steps
+			2. How the process begins and ends
+		* Body
+* **地图**
+	* 题型
+		* 大地图 (城镇布局)
+			* 从比较重要的地方开始顺时针描述
+		* 小地图 (建筑物内部)
+			* 从入口开始
+	* 时态
+		* 过去式/一般现在时
+		* 现在完成时/将来时
+	* 分段
+		* 按照变化分
+			* 图里变化性质
+			* 主要和辅助
+	* 句型
+		* There be
+		* 倒装 - 表语前置
+		* with + 分词结构

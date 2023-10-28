@@ -168,7 +168,7 @@
 				* supermarket, department store, chain store
 			* fuel
 				* coal, oil, carbon, gas, petrol
-		* Why, because (of) due to
+		* Why, **because** (of) / due to
 * 积累
 	* bypass 辅路
 	* enemy 敌人
@@ -194,6 +194,6 @@
 		* C11-3-3
 		* C11-1-2
 	* 2023年10月27日 (单选)
-		* C12-2-2
+		* C12-6-2
 		* C13-1-2
 		* C12-8-2 (具体做题流程)

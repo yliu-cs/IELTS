@@ -154,3 +154,21 @@
 				* Oh, it's half lab work and half seminars.
 			* 错误原因
 				* seminar不熟悉
+* 2023年10月28日
+	* C12-8-2
+		* Which is the most rapidly-growing group of residents in the Sheepmarket area?
+			* 定位词: rapid-growing 文中替换 fast ...
+			* 选C因为听到有 workers (employees同义替换), 但是used to live, 所以错
+			* university 和 student 原词出现, 且在but前, 一致排除
+			* A 没听到, 原文是 "but now graduates embarking on careers in the worlds of fashion and design are buying up the new apartments recently built here to replace the small houses where the market workers used to live"
+		* The speaker recommends the side streets in the Sheepmarket for their
+			* 定位词: side streets
+			* 选C因为听到 great place ... find pictures
+		* Clothes designed by entrants for the Young Fashion competition must
+			* 定位词: Young Fashion competition
+			* 被动变主动
+			* 选B因为听到 based on ideas ... music
+		* Car parking is free in some car parks if you
+			* 定位词: Car parking
+			* A选项 less than (比较)
+			* 选B因为听到stores (shops同义替换)

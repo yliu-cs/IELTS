@@ -165,3 +165,29 @@
 		* interest, jaw, jeans, kitchen, koala, lake, lava, lift, lounge, luck, maid, master, maturity, meal, mileage, model, monopoly, morality, mosquitoz
 	* Chapter 3 Test 6 (Error)
 		* moustache, naught, nose, occupant, oculist, ointment, ordinary, pal, palace, parcel, pastime, pedestrian, pension, pensioners, pet, petroleum, philosopher, physician, picnic, plant, pollutant
+*  2023年10月28日
+	* Chapter 3 Test 6 (Error)
+		* naught, neck, night, occupant, oculist, pal, palace, passenger, pedestrian, pension, pensioners, pet, petroleum, philosopher, plans, plant, planting, plate, 
+	* Chapter 3 Test 7 (Error)
+		* potteries, precaution, preposition, prevention, prize, professors, prone, prospectus, protein, psychiatrist, psychotherapy, purpose, purse, rainfall, rat, rate, rats, referee, reflectance, repetition, reproduce, response, restaurant, riders, role
+	* 同义替换
+		* 省掉
+			* omit, leave out, cancel
+		* 发现
+			* find, discover, detect, spot, see, sight
+		* 机会
+			* opportunity, chance, odds, hope
+		* 困难的
+			* difficult, problem, hard, not easy, not simple
+		* 阻止, 避免
+			* prevent, avoid, stop, escape, forbid, out of bounds
+		* 理解错误
+			* misunderstand, wrong idea, confuse, puzzle, perplex
+		* 努力
+			* try hard, make efforts, hard working
+		* 反馈
+			* feedback, response, reaction, reply
+		* 影响
+			* affect, impact, influence, effect
+		* 分析, 认知
+			* analysis, perspective, understand, perceive, know
