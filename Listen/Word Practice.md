@@ -217,3 +217,29 @@
 			* copy, repeat, reproduce
 		* 统计学
 			* statistic, data, figure
+* 2023年10月30日
+	* Chapter 3 Test 8 (Error)
+		* scheme, sewer, shell, sight, skill, slip, snack, soil, spoons, spot, steak, sting, stomach, stomachache, strengh, strike, surgeoh, syrup
+	* Chapter 3 Test 9 (Error)
+		* jargon, teeth, telescope, temple, theft, therapist, therapy, thieves, threat, thriller, tide, tides, tile, toaster, toilet, tool, tourism, towel, tractor, tram, tragedy, trailer, trend, traveler, trip, tribe, Trinity, tunnels, tunes, type, umpire, utensil, vacancy, vacation, velvet, village, vinegar, visa, vitamin, volunteer, voluntters, waist, walk, walking, wall, wasp, wasteland, wax, wealth, weeds, wetland, whale, wheel, width, willows, wing, wound, writing
+	* 同义替换
+		* 最大值
+			* maximum, up to, at most
+		* 最小值
+			* minimum, at least
+		* 最初的, 开始的
+			* initial, at first, begin, start, early on, premiere
+		* 少量的
+			* limited, just a few, a little, small, a small number of, not many, miniature
+		* 截短
+			* shorten, cut down
+		* 降低
+			* decrease, lower, reduce, fewer, drop, fall
+		* 缺乏
+			* lack, shortage, insufficient, not enough
+		* 大的
+			* large, huge, big
+		* 大量
+			* amount of, lots of, large quantities of, loads of
+		* 绝大部分
+			* majority, most

@@ -172,6 +172,7 @@
 			* 定位词: Car parking
 			* A选项 less than (比较)
 			* 选B因为听到stores (shops同义替换)
+* 2023年10月29日
 	* C12-6-2
 		* What type of restaurant will they go to on Tuesday evening?
 			* 考点
@@ -184,7 +185,7 @@
 			* 考点
 				* We recently carried out a survey of local residents, and their responses were interesting. People were very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads. We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up, but this wasn't top of the list, and nor were noise and fumes from trucks and lorries, though they were mentioned by some people.
 			* 错误原因
-				* very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads 
+				* very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads
 				* 否定信息没捕捉到but this wasn't top of the list
 		* According to the speaker, one problem with the new regulations will be
 			* 考点
@@ -192,3 +193,33 @@
 			* 错误原因
 				* 生词obeys
 				* 同义替换obeys <-> follow
+* 2023年10月30日
+	* C11-4-2
+		* 选项
+			* was given by **one person**
+				* 人, 数量
+			* was **recently** publicised in the **media**
+				* 时间, media: 抽象 -> 具体
+			* includes some items given by **members of the public**
+				* 人
+			* includes some items given by the **artists**
+				* 人
+			* includes the **most popular exhibits** in the museum
+				* 最高级
+			* is the **largest** of its kind in the country
+				* 最高级
+			* has had some of its contents **relocated**
+				* re-前缀, relocated同义替换: <-> transfer <-> move
+		* 题干
+			* 11: 定位词后听到artist和largest, 11题后也有听到artist , 所以选largest, artist留给12
+			* 12: 定位词后听到donate和artist
+			* 13: transfer/move(不确定哪个)
+			* 14: 各种media
+			* 15: 听到ordinary people
+			* 16: 没听到, 剩下两个随便蒙的
+		* 20th- and 21st-century paintings __
+			* 考点
+				* Well, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists. I'm sure you'll recognise several of the paintings. This is the gallery that attracts the largest number of visitors, so it's best to go in early in the day, before the crowds arrive.
+		* Procelain and glass __
+			* 考点
+				* All our porcelain and glass was left to the museum by its founder, when he died in 1878. And in the terms of his will, we're not allowed to add anything to that collection: he believed it was perfect in itself, and we don't see any reason to disagree!

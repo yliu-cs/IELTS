@@ -155,10 +155,11 @@
 			3. 比较级/最高级
 				* than, er, est, as ... as, same (选项出现基本是答案)
 			4. 人/钱/时间/数量多少
+				* 但不考具体时间 (this year, this morning, this week, final year, last year)
 			5. arts, culture 选项出现就选
 	* 做题方法
 		* 相似选项 (相同考点) 大概率出答案
-		* 选项中所有New都不是考点
+		* 选项中所有New, Impact都不是考点
 		* 抽象->具体 (替换)
 			* transport
 				* subway, train, bus
@@ -169,15 +170,49 @@
 			* fuel
 				* coal, oil, carbon, gas, petrol
 		* Why, **because** (of) / due to
-* 积累
-	* bypass 辅路
-	* enemy 敌人
-	* tin 锡
-	* handy 方便的
-	* went away <-> emigrate 迁移出 <-> imigrate 迁移进
-	* like <-> enjoy, satisfy, pleased, prefer, happy
-	* absent 缺席
-	* out of bounds 禁止使用
+	* 积累
+		* bypass 辅路
+		* enemy 敌人
+		* tin 锡
+		* handy 方便的
+		* went away <-> emigrate 迁移出 <-> imigrate 迁移进
+		* like <-> enjoy, satisfy, pleased, prefer, happy
+		* absent 缺席
+		* out of bounds 禁止使用
+* **多选题**
+	* 题型
+		* 5选2
+	* 大部分选项都会出现
+	* 单选题技巧也都可以用
+	* 考法
+		* 题干有替换, 替换后面跟答案
+		* 题干没有替换, 选项替换
+	* **做题流程**
+		1. 扫读题干, 找替换
+		2. 扫读选项, 划关键词, 圈考点
+	* 积累
+		* gym <-> fitness center <-> fitness suite <-> keep fit studio
+		* refurbish 重建
+		* conservation trust 保护基金会
+* **匹配题**
+	* 题型
+		* 5-7, 7选5
+		* 5-3, 3选5, 可能会复选
+		* 4-4, 一对一
+	* 考法
+		* 题干不替换, 选项替换 (90%概率)
+		* 选项不替换, 题干替换
+		* 选项题干都不替换 (但不考都替换)
+	* **做题步骤**
+		1. 确定题干选项替换词
+			* 选项每个单词都大写的话题干才会替换, 选项不是每个单词都大写体感不会替换
+		2. 充分预判替换部分会出现的形式和方向 (**重要步骤**)
+	* 积累
+		* management <-> administration <-> administer
+		* refurbish <-> redecorated
+		* in charge of 管理, 负责
+		* on time 准时, 守时
+		* institution 机构, 大学
 * **作业**
 	* 2023年10月21日
 		1. 整理错题 (抄题干，写考点，错误原因)
@@ -197,3 +232,10 @@
 		* C12-6-2
 		* C13-1-2
 		* C12-8-2 (具体做题流程)
+	* 2023年10月30日
+		* C11-4-2 (具体做题流程)
+		* C11-2-2
+		* C13-2-2 (多选+单选, 套题)
+		* C13-3-2
+		* C12-6-2
+		* C14-1-3

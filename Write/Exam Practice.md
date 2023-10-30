@@ -67,12 +67,35 @@ The proportion of consumer spending on clothing or footwear ~~is~~**was** signif
 
 ---
 
+The table presents the proportion of spending on three different aspects in five separate countries in 2002.
+
+Overall, people in five different countries spent most of money on food, drinks, and tobacco. By contrast, expenditures on leisure and education were the lowest for all countries.
+
+~~The percentage of people spending on food, drinks and tobacco was the highest.~~ People in Ireland and Turkey spent about one-third of their money on ~~them~~**food, drinks and tobacco**. And the figures for other three countries were relatively smaller ~~than those two~~, people spent just 15.77 percent of their money on them in Sweden, it was just half of the figure for Turkey.
+
+Meanwhile, the proportion of people spending on clothing and footwear was significantly lower than those of foods, drinks and tobacco. ~~p~~**P**eople in Italy spent most of their money on them, at 9 percent. The figures for Ireland, Spain and Turkey were about 6 percent, and people in Sweden had the lowest percentage of expenditure for clothing and footwear, at just over 5 percent. It can also be seen that in terms of the proportion spent on leisure and education, consumers in Turkey spent 4.35 percent, ~~more~~**higher** than those in other countries, and the figures for Italy and Sweden were about 3 percent. In Ireland and Spain, the percentages were just around 2 percent, less than half of the figure for Turkey. **(显得和前一段最后一句重复, 换表达)**
+
+spend ... on <-> paid out for
+
+**Money spent on clothing and footwear accounted for 9 percent of Italian people's total expenditure**
+**Consumers in Turkey spent a higher proportion on leisure and education than those in other countries, at 4.35 percent**
+
+---
+
 * The diagram below shows how instant noodles are manufactured.
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_1.png]]
+
+The flow diagram illustrates the whole process of how the instant noddles were produced.
+
+Overall, there are eight main stage for the instant nooddles were manufactured, with the first 
 
 ---
 
 * The maps below show an industrial area in the town of Norbiton, and planned future development of the site.
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_2.png]]
+---
+
+* Some people who have been successful in society don’t attribute their success to the theoretical knowledge they learned from their university.
+* Do you agree that theoretical knowledge is not as valuable as expected?

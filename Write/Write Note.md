@@ -127,6 +127,7 @@
 						* substantial
 						* major
 						* remarkable
+						* noticeable
 					* 副词
 						* dramatically
 						* significantly
@@ -503,3 +504,105 @@
 		* 为...腾出空间
 			* make room
 			* way for
+* **Task 2**
+	* 题型
+		* 论述类
+			* 文章结构
+				* Introduction
+					* Topic
+					* Answer
+				* Body 1
+					* Point 1
+						* topic sentence
+					* 扩充
+						* Explanation
+						* Consequence
+						* Rebuttal
+					* Point
+						* 重申观点
+				* Body 2
+					* Point 2
+						* topic sentence
+					* 扩充 (同上)
+					* Point 2 重申观点
+				* Body 3
+					* Consession 让步 - 反方观点的合理性
+					* Further explanation 解释
+					* Answer 转折
+				* Conclusion
+		* 报告类
+			* 文章结构
+				* Introduction
+					* topic
+					* answer
+				* Body 1 (回答第一问)
+					* 原因/影响
+				* Body 2 (回答第二问)
+					* 解决方案
+				* Conclusion
+					* 重申立场
+					* 总结原因/影响+解决方案
+	* 话题 (考频高)
+		* Goverment
+		* Social
+	* Brainstorm for Ideas (思考角度)
+		* Physiological
+			* 衣食住行, 生活费用, 生活质量
+		* Security and safety
+			* 安全, 健康
+		* Social
+			* 心理健康, 家人朋友, 社区
+		* Esteem
+			* 求知, 自信, 被尊重
+		* Self-actualisation
+			* 实现自己的目标, 获得丰富的人生, 给社会做贡献
+	* 小于10的数字要拼写
+	* I, my, we - someone, one, he/she ~~you~~
+	* 积累
+		* Theoretical Knowledge
+			* Intro
+				1. Backgraound
+				2. 是否应该
+					* However, whether ... a controversial issue.
+					* However, what kinds of is a controversial issue.
+					* Some people state ..., others believe that ...
+				3. I do not agree ...
+			* Body 1
+				* 论点
+					* There is clear/obvious/true that ...
+					* There is no doubt that ...
+					* One reason for ... is that ...
+					* It is widely acknowledged that ...
+					* It is commonly believed that ...
+					* It has been widely accepted that
+					* It is generally held that ...
+					* It is believed/argued/suggested/pointed out that ...
+					* It can be argue/suggested that ... - 弱化语气
+				* 扩展
+					* This is because ...
+					* This means that ...
+					* If ... not ...
+				* 举例
+					* For example, ...
+				* 重申观点
+		* 拓展句子
+			* Students read books.
+			1. 并列结构 - and
+				* Students read books and do proactice tests.
+			2. 状语 - 地点/时间/方式/频率
+				* Students read books and do proactice tests every week.
+			1. 原因/结果
+				* In order to pass their final test, students read books and do proactice tests every week.
+			2. 对比 - rather than, instead of, while, whereas
+				* In order to pass their final test, students read books and do proactice tests every week, instead of spending time on computer games.
+			3. 举例/解释 - 名词
+				* In order to pass their final test, students read books, such as those of teaching writing skills, and do proactice tests every week, instead of spending time on computer games.
+			4. 定语从句 - 名词 - 增加信息
+				* In order to pass their final test which is extremely hard, students read books, such as those of teaching writing skills, and do proactice tests every week, instead of spending time on computer games.
+			5. 名词性从句 think/believe/it is + adj.
+				* Students study hard because they believe that this can help them to pass their final test. Read books, such as those of teaching writing skills, and do proactice tests every week are similar to real exams, instead of spending time on computer games.
+* 主语从句
+	* It is likely/opssible that ...
+	* It is obvious that ...
+	* It is important/essential/vital/significant ...
+	* It is necessary/imperative that ...
