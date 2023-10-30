@@ -1,7 +1,6 @@
-* 2023年10月23日 (C11-3-1)
-	* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
-	* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
-	  ![[Homework1.png]]
+* The graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.
+* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+  ![[Homework1.png]]
 The line chart illustrates average carbon dioxide (CO2) emission**s** per person in the four countries from 1967 to 1007.
 
 Overall, **the amount of** CO2 emissions **produced/created** ~~decreased~~ in the United Kingdom and Sweden **by an average person showed a downward trend** during 40 years, ~~while~~**whereas** the figure for Italy and Portugal increased. It can also be seen that, between 1967 and 2007, the emission in United Kingdom and Portugal were highest and lowest in the four countries, respectively.
@@ -65,3 +64,15 @@ The percentage of national consumer expenditure on eating ~~remained stable high
 The proportion of consumer spending on clothing or footwear ~~is~~**was** significantly lower than **those of** foods or drinks, none of the five different countries more than one-tenth. It can also be seen that~~,~~ the expenses on leisure or education in those countries, the figure is lowest of all categories around 3 percent.
 
 **Sweden had the lowest percentage of consumption for clothing and footwear, at just over 5%.**
+
+---
+
+* The diagram below shows how instant noodles are manufactured.
+* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+  ![[Homework3_1.png]]
+
+---
+
+* The maps below show an industrial area in the town of Norbiton, and planned future development of the site.
+* Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+  ![[Homework3_2.png]]

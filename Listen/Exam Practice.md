@@ -172,3 +172,23 @@
 			* 定位词: Car parking
 			* A选项 less than (比较)
 			* 选B因为听到stores (shops同义替换)
+	* C12-6-2
+		* What type of restaurant will they go to on Tuesday evening?
+			* 考点
+				* On Tuesday evening, we'll all have dinner together in a restaurant near our hotel. From talking to you all about your preferences, it was clear that a typical local restaurant would be too meat-oriented for some of you. Some of you suggested an Italian restaurant, but I must confess that I decided to book a Lebanese one, as we have plenty of opportunities to go to an Italian restaurant at home.
+			* 错误原因
+				* too meat-oriented表示否定, 没捕捉到此信息
+				* but转折关系没捕捉到
+	* C13-1-2
+		* In a survey, local residents particularly complained about
+			* 考点
+				* We recently carried out a survey of local residents, and their responses were interesting. People were very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads. We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up, but this wasn't top of the list, and nor were noise and fumes from trucks and lorries, though they were mentioned by some people.
+			* 错误原因
+				* very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads 
+				* 否定信息没捕捉到but this wasn't top of the list
+		* According to the speaker, one problem with the new regulations will be
+			* 考点
+				* We think these new traffic regulations would make a lot of difference. But we still have a long way to go. We've managed to keep our proposals within budget, just, so they can be covered by the Council. But, of course, it's no good introducing new regulations if we don't have a way of making sure that everyone obeys them, and that's an area we're still working on with the help of representatives from the police force.
+			* 错误原因
+				* 生词obeys
+				* 同义替换obeys <-> follow

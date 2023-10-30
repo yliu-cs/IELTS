@@ -324,16 +324,49 @@
 			* 没有时间段
 			* 一道工序涉及几种方法
 			* 状语: 工具
-				* 主体段, 按过程中间分段
-		* Ready to be consumed
+			* 主体段, 按过程中间分段
+			* **词汇**
+				* 收集
+					* gather, collect, harvest
+				* 传送
+					* deliver, send, transfer, transport
+				* 转化
+					* convert into, transform into
+				* 混合
+					* mix, blend
+				* 使用
+					* utilise, employ, use, apply
+				* 扔掉, 丢弃
+					* remove, throw away, dispose of
+				* 生产, 产生, 制造
+					* produce, generate, craete, make
+				* 加热, 弄干, 降温
+					* head, dry, cool, freeze
+				* 压缩
+					* condense, compress
+				* 加工
+					* process
+				* 装罐, 包装
+					* can, pack, package
+			* 结尾: Ready to be consumed
 		* 动植物生命循环
 			* 主动语态
 			* 不同阶段
 			* 对比不同阶段生物个体
 			* 状语: 时间或地点
-			* 结构
-				* 主体段, 按生长过程中间分段
-			* At the same time, the life cycle of the salmons start anew.
+			* 主体段, 按生长过程中间分段
+			* **词汇**
+				* 产卵
+					* ley eggs, produce eggs, deposit eggs
+				* 孵化
+					* hatch eggs, incubate eggs
+				* 破卵而出
+					* break the shell, come out of eggs, emerge from eggs, hatch from eggs, egg breaks, egg cracks
+				* 变大
+					* grow older, is reared
+				* 成年
+					* reach maturity, grow to maturity, attain maturity, come to maturity, attain/reach adultdhood, mature to adulthood, fully matured
+			* 结尾: At the same time, the life cycle of the salmons start anew.
 	* 时间状语
 		* It takes ... to ...
 		* This stage lasts for ...
@@ -347,7 +380,32 @@
 			* after, before, until, once
 		* 定语从句
 			* where, which, in which
-	* 结构
+	* 连接词
+		* 第一阶段
+			* first/firstly/first  off/first of all
+			* at the first stage
+			* the first step, the initial step
+			* the early/first/initial phase
+			* The first stage is when ...
+			* The process begins/starts/commences when ...
+			* at the larval stage, life stages
+		* 第二阶段
+			* at the next/second stage
+			* enter/reach the next stage
+			* mark/represent the ... stage
+			* the next step
+			* the second phase
+		* 下一阶段
+			* next/then/after this/following this/subsequently
+			* In the following stage/In the stage after/Following this/In the stage that follows, ...
+			* During the next/following/third stage, ...
+			* This is followed by ...
+		* 最后阶段
+			* at the final stage
+			* the final/last step
+			* eventually/finally
+			* at the adult/mature stage
+	* 作文结构
 		* Introduction
 			* The diagram/picture/figure/flow chart explains the way in which .. is produced for ...
 		* Overview
@@ -363,6 +421,43 @@
 	* 时态
 		* 过去式/一般现在时
 		* 现在完成时/将来时
+		* 时间改变表达方式
+			* 过去
+				* 动词
+					* was
+					* were
+					* had
+				* 形容词
+					* old
+					* past
+					* original
+				* 状语
+					* in the past
+			* 现在
+				* 动词
+					* is
+					* are
+					* have been
+					* has been
+					* have
+				* 形容词
+					* current
+					* existing
+					* present
+				* 状语
+					* currently
+					* now at present
+			* 未来
+				* 动词
+					* is/are planned to/expected to/set to/proposed to
+				* 形容词
+					* future
+					* planned
+					* proposed
+				* 状语
+					* in the future
+					* according to the plan
+					* as planned
 	* 分段
 		* 按照变化分
 			* 图里变化性质
@@ -371,3 +466,40 @@
 		* There be
 		* 倒装 - 表语前置
 		* with + 分词结构
+	* **词汇**
+		* 新建
+			* build
+			* construct
+			* erect
+			* creast
+			* open up
+			* introduce
+			* add onto
+		* 大小
+			* develop
+			* enlarge
+			* expand
+			* extend
+			* shrink
+			* reduce in size
+		* 拆除
+			* demolish
+			* remove
+			* knock down
+			* tear down
+			* pull down
+		* 用作它用
+			* become
+			* convert
+			* redevelop
+			* repurpose
+			* transform
+			* into
+			* renovate
+			* replace
+		* 迁移
+			* move to
+			* relocate
+		* 为...腾出空间
+			* make room
+			* way for

@@ -219,7 +219,7 @@
 			* before I head to school, I usually check the map beforehand to find the quickest/best route to avoid traffic jam/getting stuck on the roads
 		* Noise
 			* Definitely not
-			* It;s hard to focus/concentrate on sth. in such place you know, sometime my dormmates makes some noises I the room when I'm doing assignments, I get so distracted
+			* It's hard to focus/concentrate on sth. in such place you know, sometime my dormmates makes some noises in the room when I'm doing assignments, I get so distracted
 			* It's not easy for people to concentrate on their work. In the long run - mental health - depressed
 * **Part 2**
 	* 结构
@@ -236,6 +236,28 @@
 				6. any connection with you
 		* Conclusion
 			* Finally, I would like to say that it's a ...
+	* 故事
+		* Alex who is the owner of chain of coffee shops.
+		* He become a household name in my city
+			* a lot of people knew who he is, went to his coffee shop
+			* coffee lover
+			* Daniel is a huge fan of Alex, and he always said how many coffee shop Alex own, which really made me interested in Alex.
+		* I first knew Alex 2 years ago
+			* I heard a stunning speech by him on tiktok, whose words left a mark on me
+		* He started up his business 10 years ago
+			* still a college student
+			* took a loan from his parents to open his first coffee shop
+			* In just 10 years
+				* there were a total of 500 coffee shops spread over China
+		* He achieve success by innovative, creative
+			* except from the authentic coffee and cozy ...
+			* the reason why this chain of coffee shops suddenly go viral is that they host a free weekly session, where they patiently share step-to-step procedure for making coffee with their customuers
+			* and promote coffee culture in China
+		* Although he mentioned he really wanted to quit in early period
+			* because of the fierce competition in the coffee shops market
+			* His family encourage him stick to it
+			* So, he achieve success finally
+		* and I see him as my role model
 	* 积累
 		* Person
 			* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...

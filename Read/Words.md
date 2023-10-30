@@ -87,3 +87,39 @@ repeal 废除
 obsidian 黑曜石
 cinnamon 肉桂
 trade 贸易
+fort 堡垒
+monopoly 垄断
+control 控制 <-> take over 掌管, 接手
+replace <-> displace 取代
+allied 结盟
+shade 阴影, 阴凉
+germinate 萌芽, 发芽
+little more than 不超过
+glare 怒瞪, 照射
+variety n. 多样性, 种类
+indigenous 本土的
+dispersed 传播 <-> spread
+favoured 对...有利
+rival 对手
+a lead of 领先
+steer 掌舵
+Canal 运河
+tip 尖端
+spears 长矛
+coat 外套
+Archaeologists 考古学家
+beads 弹珠
+lead 铅
+concerning 关于 <-> ragarding
+Act 法令
+tortoise 乌龟
+reintroduction 再引入
+conservation 保存, 保护 conservation project 保护项目
+populate <-> settle in <-> live in <-> inhabit
+predators 捕食者
+repatriation 遣返, 送回
+carry out 实施 <-> do <-> run
+make sth. possible 使...成为可能
+juvenile 青少年
+ancestral 祖先的
+came across 遇到

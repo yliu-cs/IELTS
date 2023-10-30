@@ -191,3 +191,29 @@
 			* affect, impact, influence, effect
 		* 分析, 认知
 			* analysis, perspective, understand, perceive, know
+* 2023年10月29日
+	* Chapter 3 Test 7 (Error)
+		* preposition, professors, prospectus, protein, psychiatrist, psychologist, psychotherapy, purpose, purse, rats, referee, reflectance, relief, riders
+	* Chapter 3 Test 8 (Error)
+		* safari, salt, sandal, scent, score, sewage, sewer, ship, shoe, shoplifters, sight, simulation, site, skating, skeleton, skill, skin, skirt, slang, slip, smell, sponsor, spoons, stair, status, steak, sting, stomach, stomachache, story, suburb, surgeoh, surprise, syrup, tape
+	* 同义替换
+		* 结果
+			* result, outcome, consequence, conslusion
+		* 处理
+			* handle, deal with, cope with, figure out, work out, take care of
+		* 帮助
+			* support, help, assistance, aid, tip
+		* 完美的
+			* ideal, perfect
+		* 严格的
+			* rigorous, strict, demanding
+		* 限制
+			* restrict, limit, not permit
+		* 相似的
+			* similar, like, compare
+		* 特别的
+			* particular, special, in particular, especially
+		* 重复
+			* copy, repeat, reproduce
+		* 统计学
+			* statistic, data, figure

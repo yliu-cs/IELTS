@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b81173157a27d8ba",
+        "id": "b95d2e236605f46f",
         "type": "tabs",
         "children": [
           {
-            "id": "463c26716371f3a0",
+            "id": "84ab4dd536e61452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Listen/Exam Practice.md",
+                "file": "Write/Write Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeff151fc1d71626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Read/Read Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75f4aefe03c3cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speak/Speak Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Listen/Exam Practice.md",
+                "file": "Speak/Speak Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Listen/Exam Practice.md",
+                "file": "Speak/Speak Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Listen/Exam Practice.md"
+                "file": "Speak/Speak Note.md"
               }
             }
           }
@@ -146,24 +171,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "463c26716371f3a0",
+  "active": "75f4aefe03c3cb4c",
   "lastOpenFiles": [
-    "Listen/Word Practice.md",
-    "Listen/Listen Note.md",
-    "Listen/Real Exam.md",
-    "Listen/Exam Practice.md",
-    "Listen/179同义替换.pdf",
-    "Listen/雅思王听力真题语料库.pdf",
-    "Write/Write Note.md",
+    "Read/Read Note.md",
+    "Speak/Speak Note.md",
     "Course Schedule.png",
     "Write/Exam Practice.md",
-    "Write/雅思写作观点.pdf",
-    "Speak/Speak Note.md",
-    "Read/Read Note.md",
     "Read/Exam Practice.md",
+    "Listen/Listen Note.md",
+    "Read/Words.md",
+    "Write/Write Note.md",
+    "Speak/20230912.xlsx",
+    "Write/Image/Homework3_1.jpg",
+    "Write/Image/Homework3_1.png",
+    "Write/Image/Homework3_1.png.crdownload",
+    "Write/Image/Homework3_2.png",
+    "Write/Image/Homework3_2.png.crdownload",
+    "Listen/Word Practice.md",
+    "Listen/Exam Practice.md",
+    "Listen/Real Exam.md",
+    "Listen/雅思王听力真题语料库.pdf",
+    "Listen/179同义替换.pdf",
+    "Write/雅思写作观点.pdf",
     "Real Exam^Archaeology-Course.md",
     "^Archaeology-Course.md",
-    "Read/Words.md",
     "Speak/雅思题库2023(09-12).pdf",
     "Write/Image/Homework2_1.png",
     "Write/Image/Homework2_3.png",
@@ -171,11 +202,8 @@
     "Listen/Assets/Archaeology Course.m4a",
     "Listen/Assets/Archaeology course P3.pdf",
     "Listen/Assets",
-    "Listen/新建文件夹",
     "Write/Image/Homework1.png",
-    "Write/Image",
     "Write/Task 1 Practice.png",
-    "Write/Homework 1.png.crdownload",
     "Listen/同义词.md",
     "().md",
     "阅读/阅读笔记.md",
