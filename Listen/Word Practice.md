@@ -263,3 +263,26 @@
 			* ancient, medieval, in the past, once, historical, old, former
 		* 暂时的
 			* temporary, a short time
+		* 截止时间
+			* deadline, time pressure, on time
+* 2023年11月1日
+	* 长久的
+		* permanent, long-lasting
+	* 频繁
+		* more often, frequent
+	* 年度的
+		* annual, every year
+	* 每个月
+		* every month, monthly, four weeks
+	* 每天
+		* every day, daily
+	* 分类
+		* classify, category, sort, kind, type
+	* 入口
+		* entrance, access, main gate, door
+	* 在...后面
+		* behind, back, rear
+	* 在...下面
+		* below, under
+	* 在...旁边
+		* beside, next to, near, border

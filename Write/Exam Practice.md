@@ -104,7 +104,7 @@ Nowadays, more and more young people graduate, and then they start their first j
 
 It is obvious that most majors require a lot of practice and internship experiences before entering the workforce in society, especially type of engineering. Such as software engineering, companies recruit graduates to develop applications in variety of areas, this work need employee to code the whole program to construct the application. In this scenario, theoretical knowledge is insufficient for people to finish the real work. Thus, practice is more important than theories learning.
 
-On top of that ...
+On top of that the theoretical knowledge that students learned from books were easy to be out of date.
 
 Theories in computer science can help students to understand the applications, but practice make students take the real development. For example, leaning of operation system course could help student understand the run principle of different components in low level of system, but during developing a real system, they can understand and know how to use their knowledge impressively.
 

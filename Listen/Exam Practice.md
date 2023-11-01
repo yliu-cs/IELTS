@@ -259,3 +259,37 @@
 					* 同义替换 communicate <-> keep in touch
 					* playing online games一致排除, 但 ...
 					* tablets相关内容为未来计划 (this time), 否定排除
+* 2023年11月1日
+	* C13-3-2
+		* For which TWO reasons does the speaker say people give up going to the gym?
+			* loss of confidence
+			* too much effort required
+				* 考点
+					* I think people lose interest when they don't think they're making enough progress.
+				* 错误原因
+					* 只是不再相信自己可以达成目标, 没有和别人比较
+	* C12-6-2
+		* Wednesday - The play will be performed for the first time.
+			* 考点
+				* The play we're seeing on Wednesday evening is a modern one, and we're going to the premiere
+			* 错误原因
+				* 同义替换 premiere <-> first time, 听到premiere没反应过来, 179同义替换掌握还不熟
+		* Monday - The play will be performed inside a historic building.
+			* 考点
+				* And after having a day off on Sunday, our final play is on Monday, and it's in the stunning setting of the old Town Hall, which dates back to the 14th century. The performance marks the fifty years that the lead actor has been on stage, and the play is the one where he made his first professional appearance, all those years ago.
+			* 错误原因
+				* 同义替换 old Town Hall <-> historic building
+				* first professional appearance, all those years ago
+	* C14-1-3
+		* What mistake was made when building water drainage channels in Miami in the 1950s?
+			* They did not allow for the effects of climate change.
+				* 考点
+					* Yeah, they spent quite a lot of money on them. But what they didn't take into account was global warming. So they built the drainage channels too close to sea level, and now sea levels are rising, they’re more or less useless. If there' s a lot of rain, the water can’t run away, there's nowhere for it to go. The whole design was faulty.
+				* 错误原因
+					* 同义替换 climate change <-> global warming
+		* What do they agree should be the priority for international action?
+			* greater coordination of activities
+				* 考点
+					* Absolutely. The thing is, everyone knows what the problems are and environmentalists have a pretty good idea of what we should be doing about them, so they should be able to work together to some extent. But it's going to be a long time before countries come to a decision on what principles they’re prepared to abide by.
+				* 错误原因
+					* 同义替换 work together <-> coordination

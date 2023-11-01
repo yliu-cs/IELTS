@@ -262,18 +262,18 @@
 		* 扫地机器人
 			* A few week ago, I had one day off, I got nothing to do
 			* So I just stay at home and lay on my couch scrolling through social media
-			* I happened to watch a livestream hosted by ... who is one of most popular livestreamers
+			* I happened to watch a livestream hosted by Jiaqi Li who is one of the most popular livestreamers
 				* He was selling a sweeping robot in the livestream
 				* patiently introduce function of this product
 			* the sweeping robot goes viral in the internet
 				* a lot of families are using it
 				* especially young people
-				* be busy on their work, so they don't have time to do housework
-			* provided me a lot detailed information - the latest model
+				* be busy on their work, so they don't have time to do much housework
+			* provided me a lot of detailed information - the latest model
 				* like it totally without any manual operation
-				* this product/machine/robot can empty and clean itself when it's done
-				* You don't have to pay attenion on it, can do whatever you want like
-				* with advanced navigation systems to ensure they never miss an inch
+				* this machine can empty and clean itself when it's done
+				* I don't have to pay attenion on it, then I can do whatever I want like focus on my heavy work
+				* The robot has advanced navigation systems to ensure they never miss an inch
 			* livestreamer ... professional to promote ...
 			* placed an order online
 			* 糟糕的服务
@@ -312,7 +312,7 @@
 	* 积累
 		* Person
 			* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
-			* which reall made me interested in **NAME**
+			* which really made me interested in **NAME**
 		* Place
 			* A lot of people went there, they posted glowing reviews about this place on social media, so it goes viral on the internet
 		* highly recommended it to me ...

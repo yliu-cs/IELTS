@@ -123,3 +123,25 @@ make sth. possible 使...成为可能
 juvenile 青少年
 ancestral 祖先的
 came across 遇到
+problem with sth. ...所面临的问题
+stam from sth <-> originate <-> arise from sth. <-> result from sth. 来自于
+so that 以至于
+For a start 首先
+and/both/either ... or ... 并列
+air conditioner 空调
+shortage <-> lack <-> absence <-> scarcity 缺乏
+scarce adj. 稀少的
+saline adj. 盐的 desalination 脱盐
+venture n. 企业 v. 冒险
+joint venture 合资公司
+tree bark 树皮
+stripping 剥皮
+mean n. 方法 <-> approach <-> method <-> way
+damp adj. 潮湿的 <-> wet <-> moist <-> humid
+aluminium screw caps 铝瓶盖
+cork bottle stoppers 橡木瓶塞
+spoil 糟蹋, 溺爱
+image 形象
+disgust 恶心
+frustration 沮丧
+irritability 局促

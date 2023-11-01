@@ -87,3 +87,27 @@
 			* The tiniest concentrations - as little as three or four parts to a trillion - can spoil the taste of the product contained in the bottle.
 		* suit the __ of quality products made from a __ material
 			* Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly - and very importantly - cork is a sustainable product that can be recycled without difficulty.
+* 2023年11月1日
+	* C14-1-1 (1-13, 20min)
+		* Children had problems thinking up ideas when they first created the story with Lego.
+			* Children wrote longer and better-structured stories when they first played with dolls representing characters in the story. In the latest study, children first created their story with Lego, with similar results.
+	* C15-2 (1-13, 1-13, 6-14, 56min)
+		* reference to an appealing way of using dance that the writer is not proposing
+		* mention of an objective of both dance and engineering
+		* why some measures intended to help people are being reversed
+		* reference to how transport has an impact on human lives
+		* Pedestrians are led to access points, and encouraged to cross one __ at a time.
+			* On wide major roads, they often guide pedestrians to specific crossing points and slow down their progress across the road by using staggered access points to divide the crossing into two – one for each carriageway.
+		* a reference to how further disappearance of multiple species could be avoided
+		* reference to a habitat which has suffered following the extinction of a species
+		* mention of the exact point at which a particular species became extinct
+		* Professor George Church and his team are trying to identify the __ which enabled mammoths to live in the tundra.
+			* By pinpointing which genetic traits made it possible for mammoths to survive the icy climate of the tundra, the project's goal is to return mammoths, or a mammoth- like species, to the area.
+		* Our current efforts at preserving biodiversity are insufficient.
+			* We know that what we are doing today is not enough, and we have to be willing to take some calculated and measured risks.
+		* When all participants were then given a deliberately frustrating task to do, it was found that those who had watched the __ video persisted with the task for longer and tried harder to accomplish the task than either of the other two groups.
+			* The students then were randomly assigned to watch a video clip eliciting either humour, contentment, or neutral feelings.
+		* A second study in which participants were asked to perform a particularly __ task produced similar results.
+			* Cheng and Wang then replicated these results in a second study, during which they had participants complete long multiplication questions by hand.
+		* According to researchers David Cheng and Lu Wang, these findings suggest that humour not only reduces anxiety and helps build social connections but it may also have a __ effect on the body and mind.
+			* We suggest that humour is not only enjoyable but more importantly, energising.
