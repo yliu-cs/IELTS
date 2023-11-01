@@ -243,3 +243,23 @@
 			* amount of, lots of, large quantities of, loads of
 		* 绝大部分
 			* majority, most
+* 2023年10月31日
+	* 同义替换
+		* 两倍
+			* double, twice
+		* 超过
+			* more than, over, beyond, exceed, above
+		* 当前
+			* at present, already, existing, currently, nowadays
+		* 更新
+			* update, upgrade, up to date, more current, modern
+		* 最新的
+			* newest, latest
+		* 将来
+			* soon, later, in the future
+		* 过时的
+			* out of date, old fashioned
+		* 古老的, 过去的
+			* ancient, medieval, in the past, once, historical, old, former
+		* 暂时的
+			* temporary, a short time

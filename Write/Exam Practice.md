@@ -99,3 +99,13 @@ Overall, there are eight main stage for the instant nooddles were manufactured, 
 
 * Some people who have been successful in society don’t attribute their success to the theoretical knowledge they learned from their university.
 * Do you agree that theoretical knowledge is not as valuable as expected?
+
+Nowadays, more and more young people graduate, and then they start their first job in society. However, whether the theoretical knowledge students learned in university can lead them to success is a controversial issue. I agree with that theories is not as valuable as most people expected.
+
+It is obvious that most majors require a lot of practice and internship experiences before entering the workforce in society, especially type of engineering. Such as software engineering, companies recruit graduates to develop applications in variety of areas, this work need employee to code the whole program to construct the application. In this scenario, theoretical knowledge is insufficient for people to finish the real work. Thus, practice is more important than theories learning.
+
+On top of that ...
+
+Theories in computer science can help students to understand the applications, but practice make students take the real development. For example, leaning of operation system course could help student understand the run principle of different components in low level of system, but during developing a real system, they can understand and know how to use their knowledge impressively.
+
+Overall, I agree with that theoretical knowledge is not as valuable as most people expected. It is necessary for students to learn theories in different majors, but practice is more important for everyone to find the satisfacted job.

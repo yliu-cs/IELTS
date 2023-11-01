@@ -223,3 +223,39 @@
 		* Procelain and glass __
 			* 考点
 				* All our porcelain and glass was left to the museum by its founder, when he died in 1878. And in the terms of his will, we're not allowed to add anything to that collection: he believed it was perfect in itself, and we don't see any reason to disagree!
+* 2023年10月31日
+	* C11-2-2
+		* Which TWO changes have been made so far during the refurbishment of the theatre?
+			* Some rooms now have a different use.
+			* A different type of seating has been installed.
+				* 考点
+					* The interior has just been repainted, and we're about to start on the exterior of the building - that'll be a big job. The work's running over budget, so we've had to postpone installing an elevator
+				* 错误原因
+					* 没捕捉到否定信息over budget和postpone
+		* Which TWO facilities does the theatre currently offer to the public?
+			* backstage tours
+			* a bookshop
+				* 考点
+					* What we're finding is that people want to have lunch or a cup of coffee while they're here, so we're looking into the possibility of opening a café in due course.
+				* 错误原因
+					* 可能性we're looking into the possibility表示现在没有, 也是否定
+	* C13-2-2
+		* In feedback almost all employees said that volunteering improved their
+			* job satisfaction.
+				* 考点
+					* Because they felt they were doing something really useful, nearly everyone agreed that volunteering made them feel more motivated at work.
+					*  They also liked building relationships with the people in the local community and felt valued by them.
+				* 错误原因
+					* 听到替换 satisfaction <-> motivated 但不确定
+					* 人的范围未能正确预判
+		* What TWO activities on the last Digital Inclusion Day did participants describe as useful?
+			* communicating with family
+			* playing online games
+				* 考点
+					* The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren, who prefer this form of communication to phoning or sending emails.
+					* A lot of them also said playing online games would help them make new friends and keep their brains active.
+					* One thing they asked about was using tablets for things like reading newspapers - some people had been given tablets as presents but had never used them, so that's something we'll make sure we include this time ...
+				* 错误原因
+					* 同义替换 communicate <-> keep in touch
+					* playing online games一致排除, 但 ...
+					* tablets相关内容为未来计划 (this time), 否定排除

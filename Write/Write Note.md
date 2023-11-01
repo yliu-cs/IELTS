@@ -563,7 +563,7 @@
 			* Intro
 				1. Backgraound
 				2. 是否应该
-					* However, whether ... a controversial issue.
+					* However, whether ... is a controversial issue.
 					* However, what kinds of is a controversial issue.
 					* Some people state ..., others believe that ...
 				3. I do not agree ...

@@ -77,3 +77,13 @@
 	* C15-3-2 (14-20, 8min)
 		* Getting the finance for production
 			* The company itself is based at Imperial College London, although Janssen, its chief executive, still lives in the UAE. It has raised £340,000 in funding so far. Within two years, he says, the company aims to be selling 1,000 units a month, mainly in the humanitarian field. They are expected to be sold in areas such as Australia, northern Chile, Peru, Texas and California.
+* 2023年10月31日
+	* C12-5-1 (1-13, 13min)
+		* The cork oak has the thickest bark of any living tree.
+			* Cork - the thick bark of the cork oak tree (Quercus suber) - is a remarkable material.
+		* The only way to remove the bark from cork oak trees is by hand.
+			* Cork harvesting is a very specialised profession. No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers.
+		* do not affect the __ of the bottle contents
+			* The tiniest concentrations - as little as three or four parts to a trillion - can spoil the taste of the product contained in the bottle.
+		* suit the __ of quality products made from a __ material
+			* Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly - and very importantly - cork is a sustainable product that can be recycled without difficulty.

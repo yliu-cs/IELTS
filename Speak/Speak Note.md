@@ -237,33 +237,103 @@
 		* Conclusion
 			* Finally, I would like to say that it's a ...
 	* 故事
-		* Alex who is the owner of chain of coffee shops.
-		* He become a household name in my city
-			* a lot of people knew who he is, went to his coffee shop
-			* coffee lover
-			* Daniel is a huge fan of Alex, and he always said how many coffee shop Alex own, which really made me interested in Alex.
-		* I first knew Alex 2 years ago
-			* I heard a stunning speech by him on tiktok, whose words left a mark on me
-		* He started up his business 10 years ago
-			* still a college student
-			* took a loan from his parents to open his first coffee shop
-			* In just 10 years
-				* there were a total of 500 coffee shops spread over China
-		* He achieve success by innovative, creative
-			* except from the authentic coffee and cozy ...
-			* the reason why this chain of coffee shops suddenly go viral is that they host a free weekly session, where they patiently share step-to-step procedure for making coffee with their customuers
-			* and promote coffee culture in China
-		* Although he mentioned he really wanted to quit in early period
-			* because of the fierce competition in the coffee shops market
-			* His family encourage him stick to it
-			* So, he achieve success finally
-		* and I see him as my role model
+		* 咖啡店老板
+			* Alex who is the owner of chain of coffee shops.
+			* Alex become a household name in my city
+				* a lot of people knew who he is, went to his coffee shop
+				* coffee lover
+				* Daniel is a huge fan of Alex, and he always said how many coffee shop Alex own, which really made me interested in Alex.
+			* I first knew Alex 2 years ago
+				* I heard a stunning speech by him on TikTok, and his words left a mark on me
+			* He started up his business 10 years ago
+				* still a college student
+				* took a loan from his parents to open his first coffee shop
+				* In just 10 years
+					* there were a total of 500 coffee shops spread over China
+			* He achieve success by innovative, creative bussiness ideas
+				* except from the authentic coffee and cozy environment
+				* the reason why this chain of coffee shops suddenly go viral is that they host a free weekly session, where they patiently share step-to-step procedure for making coffee with their customuers
+				* so promote coffee culture in China
+			* Although Alex mentioned he really wanted to quit in early period
+				* because of the fierce competition in the coffee shops market
+				* His family encourage him stick to it
+				* So, he achieve success finally
+			* and I see him as my role model
+		* 扫地机器人
+			* A few week ago, I had one day off, I got nothing to do
+			* So I just stay at home and lay on my couch scrolling through social media
+			* I happened to watch a livestream hosted by ... who is one of most popular livestreamers
+				* He was selling a sweeping robot in the livestream
+				* patiently introduce function of this product
+			* the sweeping robot goes viral in the internet
+				* a lot of families are using it
+				* especially young people
+				* be busy on their work, so they don't have time to do housework
+			* provided me a lot detailed information - the latest model
+				* like it totally without any manual operation
+				* this product/machine/robot can empty and clean itself when it's done
+				* You don't have to pay attenion on it, can do whatever you want like
+				* with advanced navigation systems to ensure they never miss an inch
+			* livestreamer ... professional to promote ...
+			* placed an order online
+			* 糟糕的服务
+				* Bought 3 month ago, but one month later
+				* there was a problem with ...
+				* I found that it alwasy got tangled up with my charge cable
+				* so I had to keep an eye on it when it was working
+				* It's not as smart as it advertised
+				* I mean it was really wasted of my time
+				* I couldn't focus on my work
+				* When I seek for help, staff asked me to wait
+				* around one hour later to solve this problem
+				* they were busy on talking with their potential customers
+				* I pissed off what kin of after-sales service they provided
+				* I made a complaint to their manager
+				* Finally, they help me to update the navigation system in sweep robot
+				* Terrible experience
+		* 野餐
+			* park
+				* be close to nature
+				* when I walk in the park
+					* be surrounded by a wide range of flowers and trees
+				* flowers were in full bloom and fragrance of the blossoms filled tha air
+				* it put me in a good mood
+			* cook
+				* packed a lot of food he made at home
+				* steak/fried chicken/Korean tofu soup/sweet and sour fish
+				* severl cuisines from different countries
+				* try to make a lot different dished
+				* he considers it as a kind of leisure activities
+				* a sense of achievement
+			* photo
+				* due to the pandemic
+				* this photo was four of us
+				* set it as my wallpaper on my laptop
 	* 积累
 		* Person
 			* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
-			* which really made me interested in **NAME**
+			* which reall made me interested in **NAME**
 		* Place
 			* A lot of people went there, they posted glowing reviews about this place on social media, so it goes viral on the internet
-		* Buss
+		* highly recommended it to me ...
 		* day in and day out
 		* proficient 精通
+		* gossip 八卦
+* **Part 3**
+	* 结构
+		* **总**
+			* There are definitely ...
+		* **分**
+			* The first one I can think of is/that comes my mind is ...
+				* Explain ...
+				* For exampe ...
+					* Who
+					* When
+					* What
+					* Why
+			* On top of that ...
+	* 积累
+		* personality
+			* never give up ...
+			* determine ...
+			* humble ...
