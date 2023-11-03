@@ -100,12 +100,56 @@ Overall, there are eight main stage for the instant nooddles were manufactured, 
 * Some people who have been successful in society don’t attribute their success to the theoretical knowledge they learned from their university.
 * Do you agree that theoretical knowledge is not as valuable as expected?
 
-Nowadays, more and more young people graduate, and then they start their first job in society. However, whether the theoretical knowledge students learned in university can lead them to success is a controversial issue. I agree with that theories is not as valuable as most people expected.
+Nowadays, more and more young people graduate, and then they start their first job in society. However, whether the theoretical knowledge students learned in universit~~y~~**ies** can lead them to success is a controversial issue. I agree with that theories ~~is~~**are** not as valuable as most people expected.
 
-It is obvious that most majors require a lot of practice and internship experiences before entering the workforce in society, especially type of engineering. Such as software engineering, companies recruit graduates to develop applications in variety of areas, this work need employee to code the whole program to construct the application. In this scenario, theoretical knowledge is insufficient for people to finish the real work. Thus, practice is more important than theories learning.
+It is obvious that most majors require a lot of practice and internship experiences before entering the workforce in society, especially ~~type of~~ engineering. Such as software engineering, companies recruit graduates to develop applications in variety of areas, this ~~work need~~**requires** employee to code the whole program to construct the application. In this scenario, theoretical knowledge is insufficient for people to finish the real work. Thus, practice is more important than theories ~~learning~~.
 
-On top of that the theoretical knowledge that students learned from books were easy to be out of date.
+~~On top of that~~ **Furthermore/Moreover, it can also be argue that** the theoretical knowledge that students learned from books in **the** university was easy to be out of date. There is a long run for publication about theories, but it is necessary for students to find a good job by following the ~~newest~~**latest/cutting edge** technology. Therefore, students learn more about their major from the internet instead of books in class. Particularly in artificial intelligence, companies currently recruit graduates that have ~~exploration~~ **hands-on** experience on large language models ~~(like~~, ChatGPT~~)~~, it~~'~~ **i**s hard for students **learn** learn ~~about~~ from university.
 
-Theories in computer science can help students to understand the applications, but practice make students take the real development. For example, leaning of operation system course could help student understand the run principle of different components in low level of system, but during developing a real system, they can understand and know how to use their knowledge impressively.
+**However/On the other hand**
 
-Overall, I agree with that theoretical knowledge is not as valuable as most people expected. It is necessary for students to learn theories in different majors, but practice is more important for everyone to find the satisfacted job.
+Although practice is important for students to achieve success, the~~r~~o**r**ies is the base of that. For example, leaning of operation system course could help students understand the run principle of different components in low level of system, then students can implement modification**s** based on it. Thus, students can understand and know how to use their knowledge impressively.
+
+**gain a deeper understanding of how to apply their knowledge into practice**
+
+~~Overall~~**In conclusion**, I agree with that theoretical knowledge is not as valuable as most people expected. It is necessary for students to learn theories in different majors, but practice is more important for everyone to find the ~~satisfacted~~**satisfying** job.
+
+**In conclusion, ... (总结两个小论点). Therefore, I argue that ...**
+
+---
+
+* Some ex-prisoners commit crimes after being released from the prison.
+* What do you think is the cause? How can it be solved?
+
+* 原因
+	1. 遭受歧视, 无法就业 不具备工作技能, 重操旧业 - making a living/making their ends meet - recommit crime
+	2. 罪犯价值观未转变 community/neibourhood - poverty trap - recommit crime
+* 解决方案
+	1. 宣传监狱改造 (Rehabilitation), 改善人们看法
+	2. 狱中提供不同工作技能学习机会 (Vocational Training), 向当地工厂合作输出劳动力
+	3. 加强狱中思想教育, 改善罪犯对就业看法
+
+deterrent 威慑
+serve a prison sentence 服刑
+overlook 忽视
+discrimination 歧视
+social stigma 社会污名
+re-integrate/re-entry into the society 融入社会
+legitimate source of income 合法的收入来源
+lack of skills to find employment 缺少技能找到工作
+
+high crime rate along with poverty
+social isolation 社会孤立
+exposed to a life of crime
+to get away from this kind of life 拜托这种生活
+
+rehabilitation <-> restore them to normal life
+vocational training -> skills ... increase the chance of get new job
+re-entry program
+
+deterrent -> instil with doubt and fear of consequences
+
+---
+
+* Some people suggest that young adults should be encouraged to do some unpaid work for a period of time for the community to help people.
+* Does it bring more benefits or drawbacks to the community and the young people?

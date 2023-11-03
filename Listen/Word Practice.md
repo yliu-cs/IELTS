@@ -266,23 +266,67 @@
 		* 截止时间
 			* deadline, time pressure, on time
 * 2023年11月1日
-	* 长久的
-		* permanent, long-lasting
-	* 频繁
-		* more often, frequent
-	* 年度的
-		* annual, every year
-	* 每个月
-		* every month, monthly, four weeks
-	* 每天
-		* every day, daily
-	* 分类
-		* classify, category, sort, kind, type
-	* 入口
-		* entrance, access, main gate, door
-	* 在...后面
-		* behind, back, rear
-	* 在...下面
-		* below, under
-	* 在...旁边
-		* beside, next to, near, border
+	* 同义替换
+		* 长久的
+			* permanent, long-lasting
+		* 频繁
+			* more often, frequent
+		* 年度的
+			* annual, every year
+		* 每个月
+			* every month, monthly, four weeks
+		* 每天
+			* every day, daily
+		* 分类
+			* classify, category, sort, kind, type
+		* 入口
+			* entrance, access, main gate, door
+		* 在...后面
+			* behind, back, rear
+		* 在...下面
+			* below, under
+		* 在...旁边
+			* beside, next to, near, border
+* 2023年11月2日
+	* 同义替换
+		* 可用的
+			* available, have, accessible, not close, open
+		* 无趣的
+			* boring, not interesting, boredom
+		* 倾向
+			* trend, possibility, likely, tendency
+		* 危险的
+			* risky, dangerous, not safe, hazard
+		* 有毒的
+			* poisonous, toxic, dangerous
+		* 警报
+			* warning, alarm, alert
+		* 谨慎
+			* care, caution
+		* 偷窃
+			* steal, theft
+		* 保护
+			* protect, safeguard, shelter, preserve
+		* 伤害
+			* injury, harm, hurt, damage, dangerous, frighten
+* 2023年11月3日
+	* 军事的
+		* military, battle, weapen, not peaceful
+	* 策略
+		* tactics, strategy, method
+	* 依靠
+		* rely on, depend on, count on
+	* 旅行
+		* travel, tourism, trip, passenger, flight
+	* 空间旅行
+		* space travel, aircraft, rocket, satellite
+	* 交通
+		* transport, vehicle, bus, train, boat, ship, jerry, subway
+	* 具体的
+		* specific, detail, particular, example
+	* 询问
+		* request, ask for, inquiry
+	* 清晰的
+		* clear, definitive
+	* 结冰
+		* freeze, froze, ice, chill, cold

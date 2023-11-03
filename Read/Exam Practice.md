@@ -111,3 +111,64 @@
 			* Cheng and Wang then replicated these results in a second study, during which they had participants complete long multiplication questions by hand.
 		* According to researchers David Cheng and Lu Wang, these findings suggest that humour not only reduces anxiety and helps build social connections but it may also have a __ effect on the body and mind.
 			* We suggest that humour is not only enjoyable but more importantly, energising.
+* 2023年11月2日
+	* C13-2-2 (1-13, 17min)
+		* reference to research showing the beneficial effects of oxytocin on people
+			* These follow-up studies have shown that after a sniff of the hormone, people become more charitable, better at reading emotions on others' faces and at communicating constructively in arguments.
+		* reasons why the effects of oxytocin are complex
+			* Perhaps we should not be surprised that the oxytocin story has become more perplexing.
+		* reference to people ignoring certain aspects of their research data
+			* Bartz has recently shown that in almost half of the existing research results, oxytocin influenced only certain individuals or in certain circumstances. Where once researchers took no notice of such findings, now a more nuanced understanding of oxytocin's effects is propelling investigations down new lines.
+		* People are more trusting when affected by oxytocin.
+			* In a groundbreaking experiment, Markus Heinrichs and his colleagues at the University of Freiburg, Germany, asked volunteers to do an activity in which they could invest money with an anonymous person who was not guaranteed to be honest.
+		* Oxytocin increases people's feelings of jealousy.
+			* Simone Shamay-Tsoory at the University of Haifa, Israel, found that when volunteers played a competitive game, those who inhaled the hormone showed more pleasure when they beat other players, and felt more envy when others won.
+		* The effect of oxytocin varies from one type of person to another.
+			* Jennifer Bartz from Mount Sinai School of Medicine, New York, found that it improves people's ability to read emotions, but only if they are not very socially adept to begin with.
+		* Meanwhile, research at the University of Amsterdam revealed that people who have been given oxytocin consider that __ are familiar to them in their own country to have more positive associations than those from other cultures.
+			* Meanwhile, Carsten De Dreu at the University of Amsterdam in the Netherlands discovered that volunteers given oxytocin showed favouritism: Dutch men became quicker to associate positive words with Dutch names than with foreign ones, for example.
+* 2023年11月3日
+	* C12-6 (1-13, 1-13, 1-14, 52min)
+		* a reference to characteristics that only apply to food production
+			* Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature.
+		* Financial assistance from the government can improve the standard of living of farmers.
+			* Shenggen Fan, Director General of the International Food Policy Research Institute, held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty among farming families and reduce their vulnerability to agriculture shocks.
+		* Farmers may be helped if there is financial input by the same individuals who buy from them.
+			* Some participants explained that market price volatility is often worsened by the presence of intermediary purchasers who, taking advantage of farmers' vulnerability, dictate prices.
+		* Which TWO actions are recommended for improving conditions for farmers?
+			* encouraging consumers to take a financial stake in farming
+				* wrote that community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention.
+		* A dramatic description
+			* Bingham writes about the approach in vivid style in his book.
+			* he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu.
+		* Different accounts of the same journey
+			* His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said little about his discovery. At this stage, Bingham didn't realise the extent or the importance of the site, nor did he realise what use he could make of the discovery.
+		* Bingham publishes his theory
+			* When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea.
+		* A common belief
+			* An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya
+		* The track that took Bingham down the Urubamba valley had been created for the transportation of __
+			* When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle.
+		* Bingham found out about the ruins of Machu Picchu from a __ in the Urubamba valley.
+			* His companions showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before.
+		* Observing the __ of Russian-English bilingual people when asked to select certain objects
+			* Some of the most compelling evidence for this phenomenon, called 'language co-activation', comes from studying eye movements. A Russian-English bilingual asked to 'pick up a marker' from a set of objects would look more at a stamp than someone who doesn't know Russian
+		* Attitudes towards bilingualism have changed in recent years.
+			* In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.
+		* Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.
+			* When we hear a word, we don't hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain's language system begins to guess what that word might be. If you hear 'can', you will likely activate words like 'candy' and 'candle' as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong.
+		* Bilingual people consistently name images faster than monolingual people.
+			* For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase 'tip-of-the-tongue states',when you can almost, but not quite, bring a word to mind.
+		* Bilingual people's brains process single sounds more efficiently than monolingual people in all situations.
+			* When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger
+		* an example of how bilingual and monolingual people's brains respond differently to a certain type of non-verbal auditory input
+			* When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners' neural response is considerably larger
+	* C14-1-3 (1-14)
+		* The actions of managers may make staff feel they shouldn't move to a different employer.
+			* Ng and Sorensen (2008) demonstrated that when managers provide recognition to employees, motivate employees to work together, and remove obstacles preventing effective performance, employees feel more obligated to stay with the company.
+		* Little is done in the hospitality industry to help workers improve their skills.
+			* Lucas also points out that 'the substance of HRM practices does not appear to be designed to foster constructive relations with employees or to represent a managerial approach that enables developing and drawing out the full potential of people, even though employees may be broadly satisfied with many aspects of their work' (Lucas, 2002).
+		* Research has shown that staff have a tendency to dislike their workplace.
+			* While it seems likely that employees' reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al., 2000).
+		* An improvement in working conditions and job security makes staff satisfied with their jobs.
+			* These include working conditions and job security. When these factors are unfavorable, job dissatisfaction may result. Significantly, though, just fulfilling these needs does not result in satisfaction, but only in the reduction of is satisfaction (Maroudas et al., 2008).

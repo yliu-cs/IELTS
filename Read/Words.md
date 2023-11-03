@@ -145,3 +145,4 @@ image 形象
 disgust 恶心
 frustration 沮丧
 irritability 局促
+jealousy 嫉妒 <-> envy 羡慕

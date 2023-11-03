@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "77bf0551abe240e5",
+        "id": "84eebddc67246eb4",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c4f9b574e9a7c8",
+            "id": "2121d9082264d7f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Listen/179同义替换.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "46d86f78b1224aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e002a0e741de5b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Exam Practice.md",
+                "file": "Listen/Word Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2494b10ecc2584c0",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Exam Practice.md",
+                "file": "Listen/Word Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/Exam Practice.md",
+                "file": "Listen/Word Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/Exam Practice.md"
+                "file": "Listen/Word Practice.md"
               }
             }
           }
@@ -146,61 +163,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "floating": {
-    "id": "f19df6cc1040fee4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "67af959300d2b911",
-        "type": "window",
-        "children": [
-          {
-            "id": "cc6e3ef83a3f05ce",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0c6201bd666c4b09",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Write/Write Note.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 461,
-        "y": -558,
-        "width": 1097,
-        "height": 773,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e3c4f9b574e9a7c8",
+  "active": "e002a0e741de5b5f",
   "lastOpenFiles": [
-    "Write/Write Note.md",
-    "Speak/Speak Note.md",
-    "Write/Exam Practice.md",
-    "Write/雅思写作观点.pdf",
-    "Course Schedule.png",
-    "Speak/Topic (Part 2).png",
-    "Listen/Listen Note.md",
-    "Listen/Exam Practice.md",
-    "Listen/Real Exam.md",
+    "Listen/179同义替换.pdf",
     "Listen/Word Practice.md",
     "Read/Exam Practice.md",
-    "Read/Words.md",
     "Read/Read Note.md",
-    "Listen/179同义替换.pdf",
-    "Listen/雅思王听力真题语料库.pdf",
+    "Speak/Speak Note.md",
+    "Write/Write Note.md",
+    "Course Schedule.png",
+    "Write/Exam Practice.md",
+    "Speak/Topic (Part 2).png",
     "Speak/雅思题库2023(09-12).pdf",
+    "Listen/Listen Note.md",
+    "Listen/雅思王听力真题语料库.pdf",
+    "Listen/Exam Practice.md",
+    "Write/雅思写作观点.pdf",
+    "Listen/Real Exam.md",
+    "Read/Words.md",
     "Speak/20230912.xlsx",
     "Write/Image/Homework3_1.jpg",
     "Write/Image/Homework3_1.png",

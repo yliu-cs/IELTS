@@ -262,7 +262,7 @@
 		* 扫地机器人
 			* A few week ago, I had one day off, I got nothing to do
 			* So I just stay at home and lay on my couch scrolling through social media
-			* I happened to watch a livestream hosted by Jiaqi Li who is one of the most popular livestreamers
+			* I happened to watch a livestream hosted by Jiaqi Li who is one of the most famous livestreamers
 				* He was selling a sweeping robot in the livestream
 				* patiently introduce function of this product
 			* the sweeping robot goes viral in the internet
@@ -278,12 +278,12 @@
 			* placed an order online
 			* 糟糕的服务
 				* Bought 3 month ago, but one month later
-				* there was a problem with ...
-				* I found that it alwasy got tangled up with my charge cable
+				* there was a problem with the robot
+				* I found it alwasy got tangled up with my charge cable
 				* so I had to keep an eye on it when it was working
 				* It's not as smart as it advertised
 				* I mean it was really wasted of my time
-				* I couldn't focus on my work
+				* I couldn't focus on my own work
 				* When I seek for help, staff asked me to wait
 				* around one hour later to solve this problem
 				* they were busy on talking with their potential customers

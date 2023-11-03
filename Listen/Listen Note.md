@@ -154,9 +154,10 @@
 				* build -> rebuild (re出现基本就是答案)
 			3. 比较级/最高级
 				* than, er, est, as ... as, same (选项出现基本是答案)
-			4. 人/钱/时间/数量多少
+				* more than 比较关系不考
+			1. 人/钱/时间/数量多少
 				* 但不考具体时间 (this year, this morning, this week, final year, last year)
-			5. arts, culture 选项出现就选
+			2. arts, culture 选项出现就选
 	* 做题方法
 		* 相似选项 (相同考点) 大概率出答案
 		* 选项中所有New, Impact都不是考点
@@ -197,22 +198,35 @@
 * **匹配题**
 	* 题型
 		* 5-7, 7选5
+			* 题干不替换, 选项替换 (90%概率)
 		* 5-3, 3选5, 可能会复选
+			* 选项不替换, 题干替换
 		* 4-4, 一对一
-	* 考法
-		* 题干不替换, 选项替换 (90%概率)
-		* 选项不替换, 题干替换
-		* 选项题干都不替换 (但不考都替换)
+			* 选项题干都不替换
+	* 不考都替换
 	* **做题步骤**
 		1. 确定题干选项替换词
 			* 选项每个单词都大写的话题干才会替换, 选项不是每个单词都大写体感不会替换
 		2. 充分预判替换部分会出现的形式和方向 (**重要步骤**)
+	* 少选多 (可能会复选), 按选项定位
 	* 积累
 		* management <-> administration <-> administer
 		* refurbish <-> redecorated
 		* in charge of 管理, 负责
 		* on time 准时, 守时
 		* institution 机构, 大学
+* **长难单选题** (必考题)
+	* 一半题目考点是问答
+	* 验证考点, 排除选项
+	* 问答推理, 不确定替换选项 (通过其它选项的出现排除)
+	* 积累
+		* 问答
+			* Well, I think ... 否定
+		* theory <-> idea
+		* playwrghts 剧作家
+		* sagas <-> legend 传奇
+		* reporter -> jornalism
+		* fruitful 富有成果的
 * **作业**
 	* 2023年10月21日
 		1. 整理错题 (抄题干，写考点，错误原因)

@@ -300,6 +300,8 @@
 		* 按趋势分段
 			* 段内按最大, 次大, 最小值写
 	* The percentage of XX in XX was higher than the figures for ... <-> XX was more popular/common in ... than in ...
+	* gain an insight into ...
+	* in-depth knowledge
 * **静态图**
 	* while ..., ...
 	* ... by contrast, ...
@@ -533,12 +535,18 @@
 		* 报告类
 			* 文章结构
 				* Introduction
-					* topic
-					* answer
+					* Topic
+						* It seems to be a concern that ...
+					* Answer
+						* There are several causes of this trend, but measures could certainly be taken to tackle the problem
 				* Body 1 (回答第一问)
-					* 原因/影响
+					* 原因 / 影响 (展开讲每点内容)
+						* There are two main reasons that are responsible for this.
+						* One important factor contributing to this phenomenon is that ...
+						* Another reaspon account for this trend is that ...
 				* Body 2 (回答第二问)
 					* 解决方案
+						* Both the government and society/individuals/schools/families should be actively involved to ...
 				* Conclusion
 					* 重申立场
 					* 总结原因/影响+解决方案
@@ -585,7 +593,7 @@
 				* 举例
 					* For example, ...
 				* 重申观点
-		* 拓展句子
+		* 拓展句子 (内容方面)
 			* Students read books.
 			1. 并列结构 - and
 				* Students read books and do proactice tests.
@@ -606,3 +614,77 @@
 	* It is obvious that ...
 	* It is important/essential/vital/significant ...
 	* It is necessary/imperative that ...
+* 简单句扩充
+	* 修饰名词
+		* 形容词
+			* good
+				* valuable experience
+				* a decent job
+				* positive effects
+				* sustainable development
+				* responsible individuals
+				* a healthy lifestyle
+				* technological advances
+			* bad
+				* stressful working conditions
+				* immature minds
+				* negative/adverse effects
+				* a major concern
+				* sedentary life
+				* lower sociaoeconomic families
+		* doing/done做形容词
+			* conflicting views
+			* a convincing argument
+			* a contributing factor
+			* desired results
+			* inherited characteristics
+		* 复合分词做形容词
+			* somthing-related
+				* animal-related products
+			* something-based
+				* rule-based
+				* law-abiding citizens
+				* self-motivated society
+				* well-educated people
+		* 后置介词短语
+			* benefits from exploring the universe
+			* people with conflicting opinions
+			* conflicting interest between locals and visitors
+			* assistance beyond national borders
+			* against
+				* people against animal testing
+				* an argument against charging museum visitors an entrance fee
+				* the voice against globalisation
+			* The main argument in favour of ...
+				* The main argument in favour of allowing children some financial independence
+				* People in favour of home schooling
+				* The obvious argument in favour of students wearing school uniforms is that it helps to reduce peer pressure
+		* 分词短语
+			* 主动关系 - 现在分词
+				* Young adults studying abroad
+				* Individuals working at home
+				* Cities relying on tourism industry
+				* Young people living with their parents
+			* 被动关系 - 过去分词
+				* Problems related to physical health
+				* Violence shown in TV or films
+				* Skils acquired from solving real problems
+				* Individuals knowing that they will be subject to a certain punishment if they are convicted wih a given crime will reconsider committing this act in the first place.
+				* Children given the freedom to make their own decisions are more likely to make friends with their parents.
+* 主语多样化
+	* 名词/名词短语
+		* **Sports professionals in many countries** have become stars and celebrities.
+		* **The amount of money they are able to earn in a short time** seems to be unjustified.
+		* **A person killing for self-defense** cannot be compared with a serial killer.
+		* **The proportion of money spent on food** remained the highest throughout the period.
+		* **Professionals from other fields, who make a much greater contribution to human society**, are paid so much less.
+	* 动名词作主语
+		* **Taking a gap year** brings a number of advantages.
+		* **Being able to use a foreign language** increases the employability of job hunters.
+		* **Persuading manufactures and travellers to adopt this new technology** would be a more effective strategy for improving air quality, especially in cities.
+	* It形式主语
+	* 抽象名词
+		* **Poverty** in many countries is a consistent problem.
+		* **The pursuit of** a decent salary is a common goal for most people.
+		* **Less time** spent with younger children is attributed to school reforms.
+		* **Progress** can be beneficial to people only with their acceptance of technology and pursuit of efficiency.
