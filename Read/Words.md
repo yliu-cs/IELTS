@@ -146,3 +146,18 @@ disgust 恶心
 frustration 沮丧
 irritability 局促
 jealousy 嫉妒 <-> envy 羡慕
+mammoth 猛犸象
+fertilised embryo 受精胚胎
+carnivore 食肉动物 herbvore 食草动物
+notorious 臭名昭著的 <-> infamous
+feeding/nesting/mating/breeding habit 习性
+boring <-> tedious 枯燥无聊
+amusing 有趣的
+be in line with 和...一致
+established notions 既定观点 <-> traditional view
+procurement 采购
+accounts 账户, 描述
+belief 想法, 认为
+vivid 生动的
+hindsight 马后炮
+make a name 扬名立万

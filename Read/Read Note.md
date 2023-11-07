@@ -23,6 +23,8 @@
 		* Table/ Sentence Completion
 		* Flow Chart
 		* Summary
+			* 段落型
+			* 全文主旨型
 		* Short Question Answer
 	* 优先保证答题和正确率, 短句>长句, 原文原词
 	* **做题流程**
@@ -170,6 +172,8 @@
 			* 先读题, 再做别的题型 (每做完一个题型扫一下选项避免遗漏), 最后做此题
 			* 无简单定位词
 			* NB (Nota Bene) 答案可复选
+		* futher出现大概在后半文 (很有可能探讨未来)
+		* exact point 时间点
 * **作业**
 	* 2023年10月21日
 		1. C13-X-1 的填空题 (计时, 记录做题痕迹)

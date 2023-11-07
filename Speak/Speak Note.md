@@ -113,7 +113,7 @@
 		* 分情况 (题干有明显时间标语, 例如when)
 			* Generally speaking ..., but there are other times when ...
 			* It depens .... If ..., I .... But if not, I ...
-			* Sometimes, I ..., and other times, if .., then I will
+			* Sometimes, I ..., and other times, if .., then I will ...
 		* How often
 			* I ... a lot, like maybe (次数), (原因)
 		* Prefer (二选一)
@@ -177,6 +177,9 @@
 			* We would make sth. else, like ...
 		* Instrument
 			* I never tried before
+			* interest class after school
+			* whenever I go - picnic
+			* time-consuming - may make a mistake
 		* Loud music
 			* Every day
 			* When I am back home
@@ -221,6 +224,31 @@
 			* Definitely not
 			* It's hard to focus/concentrate on sth. in such place you know, sometime my dormmates makes some noises in the room when I'm doing assignments, I get so distracted
 			* It's not easy for people to concentrate on their work. In the long run - mental health - depressed
+		* Geography
+			* useful & powerful subject
+			* have a better/rich understanding of our life in this world
+			* such as climate change, cultural diversity, and something like this
+			* it's fascinating to learn the subject
+			* plays a crucial role in international relations
+			* for example, many countries depend on Russia because of its natural resources
+			* like coal, natural gas ...
+			* That's why russia becomes one of leading countries in the world
+			* middle school - at the time - simple-basic knowledge (environment in different countries ...)
+			* documentaries in ... class
+			* closely link to our daily life, not qualified to
+			* huge gap between my major and ...
+		* Gifts
+			* appreciate all the gifts I recieved
+			* I prefer handmade by ...
+			* personal
+			* even just a card written by themselves
+			* sincere
+			* I'm not that kind of person
+			* tricky
+			* try to know what they need or want ahead of time/in advance
+			* make a choice to prepare something affordable
+			* surprised & touched
+			* practical
 * **Part 2**
 	* 结构
 		* Introduction
@@ -234,6 +262,11 @@
 				4. like (person)
 				5. what happened to him
 				6. any connection with you
+			* Person
+				* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
+				* which really made me interested in **NAME**
+			* Place
+				* A lot of people went there, they posted glowing reviews about this place on social media, so it goes viral on the internet
 		* Conclusion
 			* Finally, I would like to say that it's a ...
 	* 故事
@@ -289,8 +322,12 @@
 				* they were busy on talking with their potential customers
 				* I pissed off what kin of after-sales service they provided
 				* I made a complaint to their manager
-				* Finally, they help me to update the navigation system in sweep robot
+				* Finally, they help me to update the navigation system in sweeping robot
 				* Terrible experience
+			* 好建议
+				* been using for 2 years already
+				* have time to do more fun & meaningful things
+				* save him a lot of time & his house become clean
 		* 野餐
 			* park
 				* be close to nature
@@ -300,8 +337,9 @@
 				* it put me in a good mood
 			* cook
 				* packed a lot of food he made at home
-				* steak/fried chicken/Korean tofu soup/sweet and sour fish
-				* severl cuisines from different countries
+				* steak/sushi/fried chicken/Korean tofu soup/sweet and sour fish
+				* several cuisines from different countries
+				* tasty we thought that were takeout food from restaurant
 				* try to make a lot different dished
 				* he considers it as a kind of leisure activities
 				* a sense of achievement
@@ -309,16 +347,39 @@
 				* due to the pandemic
 				* this photo was four of us
 				* set it as my wallpaper on my laptop
+		* 运动员
+			* almost 20 years
+			* household name in my country
+			* Daniey huge fan, alwasys said how professional Xiang Liu was
+			* he is the first Chinese athlete who won a world champion
+			* stunning speech by him that talk about his sports career
+			* spent all day on training
+			* not even in my country but also in Asia miracle
+			* touched by his sports spirit
+			* running is a high-impact sport that can frequently lead to injuries to his knees and ankles
+			* but he never gave up throughout his career
+			* stuck on our dream, fight for us
+			* determined and inspiring
+			* 克服困难
+				* I have no idea how to start ...
+				* as innovative as possible
+				* make it come true
+				* initial model & keep adjust it
+				* good chance to grow up
+			* 改变人生
+				* hopeless for future, don't know what to do when I postgraduate
+				* learn spirt from him
+				* I was planning give up for applying PhD
+				* turnning point
+				* stamina
 	* 积累
-		* Person
-			* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
-			* which really made me interested in **NAME**
-		* Place
-			* A lot of people went there, they posted glowing reviews about this place on social media, so it goes viral on the internet
 		* highly recommended it to me ...
 		* day in and day out
 		* proficient 精通
 		* gossip 八卦
+		* promising 有前景的
+		* we may try to figure it out together
+		* check hot spot 打卡热点
 * **Part 3**
 	* 结构
 		* **总**
@@ -337,3 +398,9 @@
 			* never give up ...
 			* determine ...
 			* humble ...
+		* Lonely (isolated) crowded
+			* native to ...
+			* be busy on their own matters ...
+			* heavy workload
+			* keep balance between life and work
+			* retired parents mey feel lonely at home

@@ -543,7 +543,7 @@
 					* 原因 / 影响 (展开讲每点内容)
 						* There are two main reasons that are responsible for this.
 						* One important factor contributing to this phenomenon is that ...
-						* Another reaspon account for this trend is that ...
+						* Another reason account for this trend is that ...
 				* Body 2 (回答第二问)
 					* 解决方案
 						* Both the government and society/individuals/schools/families should be actively involved to ...
@@ -551,7 +551,7 @@
 					* 重申立场
 					* 总结原因/影响+解决方案
 	* 话题 (考频高)
-		* Goverment
+		* Government
 		* Social
 	* Brainstorm for Ideas (思考角度)
 		* Physiological

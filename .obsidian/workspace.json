@@ -4,38 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "84eebddc67246eb4",
+        "id": "426f8ced1df069c1",
         "type": "tabs",
         "children": [
           {
-            "id": "2121d9082264d7f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Listen/179同义替换.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "46d86f78b1224aa6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e002a0e741de5b5f",
+            "id": "c9ac045336ba2667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Listen/Word Practice.md",
+                "file": "Write/Write Note.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "05f697a19cd6d5d3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Speak/Topic (Part 2).png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2494b10ecc2584c0",
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Listen/Word Practice.md",
+                "file": "Speak/Topic (Part 2).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Listen/Word Practice.md",
+                "file": "Speak/Topic (Part 2).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Listen/Word Practice.md"
+                "file": "Speak/Topic (Part 2).png"
               }
             }
           }
@@ -163,40 +157,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e002a0e741de5b5f",
+  "active": "05f697a19cd6d5d3",
   "lastOpenFiles": [
-    "Listen/179同义替换.pdf",
-    "Listen/Word Practice.md",
-    "Read/Exam Practice.md",
-    "Read/Read Note.md",
+    "Speak/ppt1405.tmp",
+    "Speak/ppt5007.tmp",
+    "Speak/ppt4558.tmp",
+    "Speak/ppt1E5.tmp",
+    "Speak/ppt2465.tmp",
+    "Speak/ppt1B6B.tmp",
+    "Speak/ppt8BBD.tmp",
+    "Speak/ppt2AA5.tmp",
+    "Speak/ppt1859.tmp",
+    "Speak/pptE5B.tmp",
+    "Speak/pptE09B.tmp",
     "Speak/Speak Note.md",
-    "Write/Write Note.md",
-    "Course Schedule.png",
-    "Write/Exam Practice.md",
     "Speak/Topic (Part 2).png",
-    "Speak/雅思题库2023(09-12).pdf",
-    "Listen/Listen Note.md",
-    "Listen/雅思王听力真题语料库.pdf",
+    "Write/Exam Practice.md",
+    "Write/Write Note.md",
     "Listen/Exam Practice.md",
-    "Write/雅思写作观点.pdf",
+    "Listen/Listen Note.md",
+    "Write/Image/生产流程范文.jpg",
+    "Write/Image/生命循环范文.jpg",
+    "Read/Read Note.md",
+    "Course Schedule.png",
+    "Listen/Word Practice.md",
     "Listen/Real Exam.md",
     "Read/Words.md",
-    "Speak/20230912.xlsx",
+    "Read/Exam Practice.md",
     "Write/Image/Homework3_1.jpg",
     "Write/Image/Homework3_1.png",
-    "Write/Image/Homework3_1.png.crdownload",
     "Write/Image/Homework3_2.png",
-    "Write/Image/Homework3_2.png.crdownload",
     "Real Exam^Archaeology-Course.md",
     "^Archaeology-Course.md",
     "Write/Image/Homework2_1.png",
     "Write/Image/Homework2_3.png",
     "Write/Image/Homework2_2.png",
-    "Listen/Assets/Archaeology Course.m4a",
-    "Listen/Assets/Archaeology course P3.pdf",
-    "Listen/Assets",
-    "Write/Image/Homework1.png",
-    "Write/Task 1 Practice.png",
     "Listen/同义词.md",
     "().md",
     "阅读/阅读笔记.md",

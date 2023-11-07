@@ -86,15 +86,28 @@ spend ... on <-> paid out for
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_1.png]]
 
-The flow diagram illustrates the whole process of how the instant noddles were produced.
+The flow diagram illustrates the whole process of how the instant noodles were produced in manufacturing.
 
-Overall, there are eight main stage for the instant nooddles were manufactured, with the first 
+Overall, the process of making instant noodles consists of eight main stages, with the first phase of flour gathering and final phase of labeling and sealing.
+
+In the first stage, the flour were transport to storage silos by truck. Enter the next stage, flour were mixed with water and oil. After this, the mixture through rollers to dough sheets, and then dough strips. noodles discs, . During the next, cooking the noodles with oil and heat to reach available to eat, then drying them.
+
+In the following stage, package dried noodles with vegetables and spices in cups. The last stage is labeling and sealing in the outside of cups, and then instant noodles are ready to be consumed.
 
 ---
 
 * The maps below show an industrial area in the town of Norbiton, and planned future development of the site.
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_2.png]]
+
+The two maps illustrate the norbiton industrial area now and future development planning, respectively.
+
+Overall, there were several new roads and four main public building planned to build in the place of Norbiton industrial. Meanwhile, development of there will reach into the place in north of river.
+
+The whole road network in Norbiton industrial district was proposed to expand to cover the entire industrial place. In the East of there, several housing were set to demolish to make room for school that at the end of east-west road and playground that in the north of the same road in the west of school.
+
+In the south of Norbiton industrial district, circle junction is planned to replace the cross intersection between east-west and north-south road. There were planned to construct medical center and shops between the junction and another circle junction. The housing near the junction will be relocated along the planning road. As for the river, there was a bridge expected to create to connect the two sides, and a new large housing will be established along the road in north of the river according to the plan.
+
 ---
 
 * Some people who have been successful in society don’t attribute their success to the theoretical knowledge they learned from their university.
@@ -125,9 +138,8 @@ Although practice is important for students to achieve success, the~~r~~o**r**ie
 	1. 遭受歧视, 无法就业 不具备工作技能, 重操旧业 - making a living/making their ends meet - recommit crime
 	2. 罪犯价值观未转变 community/neibourhood - poverty trap - recommit crime
 * 解决方案
-	1. 宣传监狱改造 (Rehabilitation), 改善人们看法
+	1. 宣传监狱改造 (Rehabilitation), 加强狱中思想教育, 改善罪犯对就业看法
 	2. 狱中提供不同工作技能学习机会 (Vocational Training), 向当地工厂合作输出劳动力
-	3. 加强狱中思想教育, 改善罪犯对就业看法
 
 deterrent 威慑
 serve a prison sentence 服刑
@@ -141,7 +153,7 @@ lack of skills to find employment 缺少技能找到工作
 high crime rate along with poverty
 social isolation 社会孤立
 exposed to a life of crime
-to get away from this kind of life 拜托这种生活
+to get away from this kind of life 摆脱这种生活
 
 rehabilitation <-> restore them to normal life
 vocational training -> skills ... increase the chance of get new job
@@ -151,5 +163,25 @@ deterrent -> instil with doubt and fear of consequences
 
 ---
 
+It seems to be a concern that some ex-prisoners commit crimes after being released from the prison. There are several causes of this trend, but measures could be taken to tackle the problem.
+
+There are two main reasons that are responsible for this. One important factor contributing to this phenomenon is that ex-prisoners commit crimes under discrimination and lack of skills to work in society after being released from the prison. It is necessary for people to get legitimate source of income for make a living by working, but it is hard for them to re-entry into the society with stereotype to find a job. Another reason account for this trend is poverty trap. Living in previous community after serving a prison sentence, the terrible environment exposed ex-prisoners to a life of crime, so they fall in the poverty trap and can not get away from this kind of life. Therefore, some ex-prisoners commit crimes again.
+
+Both the government and society should be actively involved to prevent the exprisoners re-commit crimes. The government should release some policies to deterrent crimes and strength the mental education for prisoners in prison. Besides, it is important to make publicity the effect of rehabilitation in prison, which can decrease the stereotype of people. Furthermore, prison managers can construct a re-entry program that provide vocational training for prisoners to teach them work skills to increase the chances of get new job after release.
+
+In conclusion, there are two main reasons for some ex-prisoners make crimes again after release about social stigma and poverty trap. Therefore, the government and society should make publicity of rehabilitation and provide vocational training for them to prevent relevant consequences.
+
+---
+
 * Some people suggest that young adults should be encouraged to do some unpaid work for a period of time for the community to help people.
 * Does it bring more benefits or drawbacks to the community and the young people?
+
+Nowadays, more and more youth are encouraged to do some free work for community to help others. However, whether the young people do some unpaid work bring more benefits is a controversial issue. I agree with that youth freely help people can bring benefits to themselves and society.
+
+It is obvious that more and more people are socializing less than before, the relationship between people and neighborhoods are decreasing now. Thus, it is a simple but effective way for young people to help others to make new friends in community, then they could bond with each other during the association. The people who helped others can receive feedback of helping from them, it is an essential part of a friendly community.
+
+Furthermore, it can also be argue that helping neighborhoods is not just a form of work but more of a leisure activity for young people. Because they can release themselves from the heavy work when they helping others after daily work, it is important for society to full of energy. Besides, people also get a sense of achievement and inner satisfaction by helping others, it is a valuable experience of improvement.
+
+On the other hand, although it is cost-consuming for young people to do unpaid work to help others rather than focus on their work or study, they can get more than money in other aspects, such as contacts, inner feeling and so on.
+
+In conclusion, young people doing some unpaid work can bring benefits like making new friends and being more relax. Therefore, I argue that young adults should freely do some work for a period of time for the community to help others.
