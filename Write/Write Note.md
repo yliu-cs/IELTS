@@ -342,7 +342,7 @@
 				* 扔掉, 丢弃
 					* remove, throw away, dispose of
 				* 生产, 产生, 制造
-					* produce, generate, craete, make
+					* produce, generate, create, make
 				* 加热, 弄干, 降温
 					* head, dry, cool, freeze
 				* 压缩
@@ -688,3 +688,26 @@
 		* **The pursuit of** a decent salary is a common goal for most people.
 		* **Less time** spent with younger children is attributed to school reforms.
 		* **Progress** can be beneficial to people only with their acceptance of technology and pursuit of efficiency.
+* 词汇
+	* 名词
+		* delemma 进退两难的局面
+		* infrastructure
+		* mindset 思维模式
+		* compromise 妥协
+		* paradox 自相矛盾的观点
+		* inequality 不平等
+		* hierarchy 层次
+		* democracy 民主
+	* 动词
+		* collaborate
+		* mannipulate 熟练地操作
+		* optimize 使...最优化
+		* withstand 抵挡, 经受住
+		* compensate 补偿
+		* undermine 破坏, 削弱
+		* jeopardize 使...受危害
+		* deteriorate 恶化
+		* impede
+		* exaggerate
+* impose heavy burden on taxpayers
+* social unrest

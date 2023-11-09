@@ -13,7 +13,7 @@ Overall, **the amount of** CO2 emissions **produced/created** ~~decreased~~ in t
 
 Average carbon dioxide emissions per person dropped gradually in the United Kingdom from 1967 to 2007, ~~moving~~**decreasing** from around 11 **metric tonnes** to 9 metric tonnes. Meanwhile, the emissions in Sweden grew before 1977 from about 9 **metric tonnes** to over 10 **metric tonnes**, then declined significantly to almost 6 **metric tonnes** in 2007.
 
-**Before the figure to Sweden saw a significant decline a around 6 metric tonnes in 2007, it peaked at almost 11 in 1977**
+**Before the figure to Sweden saw a significant decline around 6 metric tonnes in 2007, it peaked at almost 11 in 1977**
 **it increased sharply in the first decade, increasing from about 9 metric tonnes**
 
 The ~~emission curve~~**amount of emmisions** climbed dramatically for Portugal, rising from 1 to almost 6 metric tonnes, over 40 years. And the figure for Italy went up remarkably from over 4 to almost 8 **metric tonnes**, with overtaking Sweden in 1987 **becoming the country with the second largest amount of CO2 amount**.
@@ -86,13 +86,15 @@ spend ... on <-> paid out for
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_1.png]]
 
-The flow diagram illustrates the whole process of how the instant noodles were produced in manufacturing.
+The flow diagram illustrates the whole process of how the instant noodles were produced in ~~manufacturing~~**in a factory**.
 
 Overall, the process of making instant noodles consists of eight main stages, with the first phase of flour gathering and final phase of labeling and sealing.
 
-In the first stage, the flour were transport to storage silos by truck. Enter the next stage, flour were mixed with water and oil. After this, the mixture through rollers to dough sheets, and then dough strips. noodles discs, . During the next, cooking the noodles with oil and heat to reach available to eat, then drying them.
+**Starting with/Commencing with collecting flour from storage silos and ending with ...**
 
-In the following stage, package dried noodles with vegetables and spices in cups. The last stage is labeling and sealing in the outside of cups, and then instant noodles are ready to be consumed.
+In the first stage, the flour ~~were~~**was** transport**ed** to storage silos by truck. Enter the next stage, flour ~~were~~**was** mixed with water and oil. After this, the mixture ~~through~~**squeezed by** rollers to dough sheets, ~~and then dough strips. noodles discs, ~~**which are then cut into strips by a mathine**. ~~During the next~~ **These strips are processed into noodles discs.** **In the step that follows**, ~~cooking the noodles with oil and heat to reach available to eat, then drying them~~**before the noodles discs are dried, they are fried with oil**.
+
+In the following stage, ~~package~~ dried noodles **are packed** with vegetables and spices in cups. **These cups are attached with labels and sealed, before they are ready to be consumed.**
 
 ---
 
@@ -100,13 +102,20 @@ In the following stage, package dried noodles with vegetables and spices in cups
 * Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
   ![[Homework3_2.png]]
 
-The two maps illustrate the norbiton industrial area now and future development planning, respectively.
+The two maps illustrate the ~~n~~**N**orbiton industrial area now and **its proposed** future development ~~planning~~, respectively.
 
-Overall, there were several new roads and four main public building planned to build in the place of Norbiton industrial. Meanwhile, development of there will reach into the place in north of river.
+Overall, there were several new roads and four main public building planned to build in the ~~place of Norbiton industrial~~**region**. Meanwhile, ~~development of there will reach into the place in north of river.~~**another major development/fundamental change involves the**.
 
-The whole road network in Norbiton industrial district was proposed to expand to cover the entire industrial place. In the East of there, several housing were set to demolish to make room for school that at the end of east-west road and playground that in the north of the same road in the west of school.
+**industrial area -> residential area - amenities**
 
-In the south of Norbiton industrial district, circle junction is planned to replace the cross intersection between east-west and north-south road. There were planned to construct medical center and shops between the junction and another circle junction. The housing near the junction will be relocated along the planning road. As for the river, there was a bridge expected to create to connect the two sides, and a new large housing will be established along the road in north of the river according to the plan.
+The whole road network in Norbiton industrial district was proposed to **be** expand to cover the entire industrial place. In the ~~E~~**e**ast ~~of there~~, several housing**s** ~~were~~**are** set to **be** demolish to make room for school ~~that~~**which** at the end of east-west road. and playground that in the north of the same road in the west of school.
+
+**An expansion in road network is proposed to the ...**
+**The road runs from the west to the east**
+
+**Farmland reduce in size**
+
+In the south of Norbiton industrial district, ~~circle junction~~**ring road** is planned to replace the cross intersection between east-west and north-south road. ~~There were planned to construct~~**A** medical center and shops **are planned to construct** between ~~the junction and another circle junction~~**the two ring roads**. The housing near the junction will be relocated along the planning road. As for the river, ~~there was~~ a bridge **is** expected to create to connect the two sides, and a new large housing will be established along the road in **the** north of the river according to the plan.
 
 ---
 
@@ -145,7 +154,7 @@ deterrent 威慑
 serve a prison sentence 服刑
 overlook 忽视
 discrimination 歧视
-social stigma 社会污名
+social stigma 社会污名 - stigmatised
 re-integrate/re-entry into the society 融入社会
 legitimate source of income 合法的收入来源
 lack of skills to find employment 缺少技能找到工作
@@ -165,23 +174,73 @@ deterrent -> instil with doubt and fear of consequences
 
 It seems to be a concern that some ex-prisoners commit crimes after being released from the prison. There are several causes of this trend, but measures could be taken to tackle the problem.
 
-There are two main reasons that are responsible for this. One important factor contributing to this phenomenon is that ex-prisoners commit crimes under discrimination and lack of skills to work in society after being released from the prison. It is necessary for people to get legitimate source of income for make a living by working, but it is hard for them to re-entry into the society with stereotype to find a job. Another reason account for this trend is poverty trap. Living in previous community after serving a prison sentence, the terrible environment exposed ex-prisoners to a life of crime, so they fall in the poverty trap and can not get away from this kind of life. Therefore, some ex-prisoners commit crimes again.
+There are two main reasons that are responsible for **recidivism**. One important factor contributing to this phenomenon is that ex-prisoners ~~commit crimes under~~**suffer from** discrimination and **a** lack of skills to ~~work in society~~**get a job** after being released from the prison. It is necessary for people to get legitimate source of income for mak~~e~~**ing** a living ~~by working~~, but it is hard for them to re-ent~~ry~~**er** ~~into~~ the society with ~~stereotype to find a job~~ **labels**. Another reason account**s** for this trend is poverty trap. Living in previous community after serving a prison sentence, the terrible environment exposed ex-prisoners to a life of crime, so they fall in the poverty trap and cannot get away from this kind of life. Therefore, some ex-prisoners commit crimes again.
 
-Both the government and society should be actively involved to prevent the exprisoners re-commit crimes. The government should release some policies to deterrent crimes and strength the mental education for prisoners in prison. Besides, it is important to make publicity the effect of rehabilitation in prison, which can decrease the stereotype of people. Furthermore, prison managers can construct a re-entry program that provide vocational training for prisoners to teach them work skills to increase the chances of get new job after release.
+Both the government and society should be actively involved to prevent the ex-prisoners re-commit crimes. The government should ~~release~~**publish/make** some policies to deter~~rent~~ crimes and strength**en** the ~~mental~~ education **program** for prisoners in prison. Besides, it is important to make publicity the effect of rehabilitation in prison, which can decrease the stereotype of people. Furthermore, ~~prison managers can construct a~~ re-entry program **should be designed to** ~~that~~ provide vocational training ~~for prisoners~~ to teach them work skills **For example, they may lack the interview skills to be hired for a position.** to increase the chances of get**iing** new job ~~after~~**upon** release.
 
-In conclusion, there are two main reasons for some ex-prisoners make crimes again after release about social stigma and poverty trap. Therefore, the government and society should make publicity of rehabilitation and provide vocational training for them to prevent relevant consequences.
+**facilitate programs to help individuals to make positive community relationship so that ...**
+
+In conclusion, there are two main reasons for some ex-prisoners ~~make~~**re-commit** crimes ~~again after release~~ about social stigma and poverty trap. Therefore, the government and society should make publicity of rehabilitation and provide vocational training for them to prevent relevant consequences.
+
+**In conclusion, social stigma and poverty trap are two major factors to be blamed for recidivism**
+**Lacking of legitimate source of income and coming from a poor neighbourhood which can potentially lead to recidivism**
 
 ---
 
 * Some people suggest that young adults should be encouraged to do some unpaid work for a period of time for the community to help people.
 * Does it bring more benefits or drawbacks to the community and the young people?
 
-Nowadays, more and more youth are encouraged to do some free work for community to help others. However, whether the young people do some unpaid work bring more benefits is a controversial issue. I agree with that youth freely help people can bring benefits to themselves and society.
+Nowadays, more and more youth are encouraged to do some free work for community t~~o help others~~. However, whether ~~the~~ young people do some unpaid work bring more benefits is a controversial issue. I agree with that ~~youth freely~~ help**ing** people can bring benefits to themselves and **the** society.
 
-It is obvious that more and more people are socializing less than before, the relationship between people and neighborhoods are decreasing now. Thus, it is a simple but effective way for young people to help others to make new friends in community, then they could bond with each other during the association. The people who helped others can receive feedback of helping from them, it is an essential part of a friendly community.
+**Whether this can benefit both young people and community is a controversial issue**
+**they shoud be motivated to do some unpaid community work**
 
-Furthermore, it can also be argue that helping neighborhoods is not just a form of work but more of a leisure activity for young people. Because they can release themselves from the heavy work when they helping others after daily work, it is important for society to full of energy. Besides, people also get a sense of achievement and inner satisfaction by helping others, it is a valuable experience of improvement.
+It is obvious that more and more people are socializing less than before, the ~~relationship~~**connection** between people and **their** neighbour~~hood~~s are decreasing now. Thus, ~~it~~**helping others** is a simple but effective way for young people ~~to help others~~ to make new friends in **the** community, ~~then~~**and therefore** they could bond with each other ~~during the association~~**by coming together and working collaboratively**. The people who helped others can receive feedback of helping from them, it is an essential part of a friendly community.
 
-On the other hand, although it is cost-consuming for young people to do unpaid work to help others rather than focus on their work or study, they can get more than money in other aspects, such as contacts, inner feeling and so on.
+**plays a vital role in improving the connection among people in the community**
+**Volunteering their time and effort can help them get more involved in the community to make the community friendiler**
 
-In conclusion, young people doing some unpaid work can bring benefits like making new friends and being more relax. Therefore, I argue that young adults should freely do some work for a period of time for the community to help others.
+Furthermore, it can also be argue**d** that helping neighbour~~hood~~s is not just a form of work but more of a leisure activity for young people. Because they can release themselves from the heavy work when they helping others after daily work, it is important for society to full of energy. Besides, people also get a sense of achievement and inner satisfaction by helping others, it is a valuable experience of improvement.
+
+**Expand skill sets - provide opportunities for students to tackle problems and challenges which are hard to get in the school environment**
+**For example, raise funds for charities**
+**Helping senior citizens in the community - patiently**
+**prepare them for more complex communication scnarios/situations in the future, especially when they enter the workforce and need to interact with colleagues coming from different backgrounds**
+
+On the other hand, although it is cost-consuming for young people to do unpaid work to help others rather than focu~~s~~**ing** on their work or study, they can get more than money in other aspects, such as contacts, inner feeling and so on.
+
+**a sense of achievement/responsibility - by helping people in need**
+**make a positive impact to their lives**
+
+In conclusion, young people doing some unpaid work can bring benefits ~~like~~**such as** making new friends and being more relax. Therefore, I argue that young adults should ~~freely~~ do some **free** work for a period of time for the community to help others.
+
+---
+
+![[2023-09-23.png]]
+
+The line chart illustrates the proportion of people visiting the gym at least once a month in four different age groups from 1984 to 2003.
+
+Overall, There are three upward trend of the percentage of people visiting the gym once a month or more during the period. Meanwhile, the figure for 46-65 age group decreased rapidly after rise.
+
+The proportion of people under 25 age went to gym every month increased significantly, moving from around 15 percent to almost 60 percent, it maintain the highest since 1994 by overtaking those of 26-45 age and 46-65 group. It can also be seen that the figure for 26-45 age group showed more variation from 1984 to 1994, then sharply went up and peaked at approximately 55 percent in 2003.
+
+The percentage of above 65 age people monthly went to gym climbed gradually with a fluctuation, moving from 5 percent to 20 percent between 1984 and 2003. Furthermore, before the figure for 46-65 age group saw a dramatically decline, reaching into the lowest (15%) in 2003, it peaked at about 30 perent in 1989.
+
+---
+
+![[2023-10-07.png]]
+
+---
+
+* Printed book is not necessary in digital era, books can stored in electronically, others believe that printed books will continue to play an important part in our lives.
+* Discuss both views and your opinions.
+
+Nowadays, more and more people read electronic book rather than printed book. especially young people. However, whether printed book will continue to play its vital role in digital era is a controversial issue. I agree with that book with paper material is not essential with the development of electronic technology.
+
+It is obvious that e-book is more convenient for people to read than printed book. It is a easier method for people to choose a book that they want to read with just one iPad or mobile phone everywhere, they do not carry a lot of printed book any more. For example, people have to carry three printed books during their journey if they want to read all of them, but they can read more then three e-books with only one iPad.
+
+Moreover, it can also be argue that e-book is friendly to our natural environment than paper book. Producing a printed book require a lot of paper from harvesting trees, it is really waste of the natural resources. It is hard for us to maintain the health of our living environment. But procedure for creating digital book without any natural resources is more friendly to our environment, it is important for us to develop technology sustainable.
+
+Although printed book with unique layout of image and text in each of them could provide a special reading experience, e-book could offer the same or even better with the improvement of technology. We can read e-book with their own layout in file format of pdf or epub.
+
+In conclusion, the e-book is more convenient and environment-friendly for people to read than printed book. Therefore, I argue that printed book is not necessary in digital era.

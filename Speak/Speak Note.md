@@ -70,7 +70,7 @@
 				* free myself from the hard day/week
 		* Social event
 			* It kind of (more of) a social event
-			* Usually, I do ... with a bunch of friendsd+(时间地点)
+			* Usually, I do ... with a bunch of friends+(时间地点)
 			* It's the time for us to bond with each other (It's such a great bonding experience)
 			* Make some new friends who are like-minded (have common interests)
 			* At the time, it's a good way to loosen up/unwind.
@@ -263,10 +263,13 @@
 				5. what happened to him
 				6. any connection with you
 			* Person
-				* He is a huge fan of ..., and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
+				* He is a huge fan of ...
+				* and he always said that how professional **NAME** is, how many ... **NAME** won/own, and how **NAME** achieved such a great ...
 				* which really made me interested in **NAME**
 			* Place
-				* A lot of people went there, they posted glowing reviews about this place on social media, so it goes viral on the internet
+				* A lot of people went there
+				* they posted glowing reviews about this place on social media
+				* so it goes viral on the internet
 		* Conclusion
 			* Finally, I would like to say that it's a ...
 	* 故事
@@ -305,7 +308,7 @@
 			* provided me a lot of detailed information - the latest model
 				* like it totally without any manual operation
 				* this machine can empty and clean itself when it's done
-				* I don't have to pay attenion on it, then I can do whatever I want like focus on my heavy work
+				* I don't have to pay attention on it, then I can do whatever I want like focus on my heavy work
 				* The robot has advanced navigation systems to ensure they never miss an inch
 			* livestreamer ... professional to promote ...
 			* placed an order online
@@ -320,7 +323,7 @@
 				* When I seek for help, staff asked me to wait
 				* around one hour later to solve this problem
 				* they were busy on talking with their potential customers
-				* I pissed off what kin of after-sales service they provided
+				* I pissed off what kind of after-sales service they provided
 				* I made a complaint to their manager
 				* Finally, they help me to update the navigation system in sweeping robot
 				* Terrible experience
@@ -333,7 +336,7 @@
 				* be close to nature
 				* when I walk in the park
 					* be surrounded by a wide range of flowers and trees
-				* flowers were in full bloom and fragrance of the blossoms filled tha air
+				* flowers were in full bloom and fragrance of the blossoms filled the air
 				* it put me in a good mood
 			* cook
 				* packed a lot of food he made at home
@@ -344,21 +347,24 @@
 				* he considers it as a kind of leisure activities
 				* a sense of achievement
 			* photo
+				* hard for our to meet in person
 				* due to the pandemic
 				* this photo was four of us
 				* set it as my wallpaper on my laptop
+			* tired
+				* foodie
 		* 运动员
-			* almost 20 years
 			* household name in my country
-			* Daniey huge fan, alwasys said how professional Xiang Liu was
 			* he is the first Chinese athlete who won a world champion
+			* not even in my country but also in Asia miracle
+			* almost 20 years
+			* Daniel huge fan, always said how professional Xiang Liu was
 			* stunning speech by him that talk about his sports career
 			* spent all day on training
-			* not even in my country but also in Asia miracle
 			* touched by his sports spirit
 			* running is a high-impact sport that can frequently lead to injuries to his knees and ankles
 			* but he never gave up throughout his career
-			* stuck on our dream, fight for us
+			* stuck to our dream, fight for us
 			* determined and inspiring
 			* 克服困难
 				* I have no idea how to start ...
@@ -368,10 +374,33 @@
 				* good chance to grow up
 			* 改变人生
 				* hopeless for future, don't know what to do when I postgraduate
-				* learn spirt from him
+				* learn spirit from him
 				* I was planning give up for applying PhD
-				* turnning point
+				* turning point
 				* stamina
+		* 上课收手机
+			* The first year in my university
+			* XXX introduce a rule to us
+			* no phones are allowed during each class, student must hand in their phones to the teacher, and they can only get them back after the class
+			* schools want all of us take it seriously
+			* those who fail to obey this regulation will be punished
+			* ranging from a small fine to school service
+			* or even perhaps those repeat offenders will be given warning letters
+			* what's great about ... is that we can complete focus on the class
+			* this rule is put in place to create a better learning environment
+			* sometimes, when we see any message popping up on our screen
+			* we may unconsciously check it out
+			* distract up away from the class
+			* without this distraction, we find it easier to stay focused on what teacher is saying
+			* gradually it helps me develop better study habits become more attentive and disciplined
+		* 论文
+			* challenging but rewarding
+			* rare chance
+			* I'm in the process of applying PhD
+			* win a place
+			* lift up my profile
+			* day in and day out
+			* physically and mental fatigue
 	* 积累
 		* highly recommended it to me ...
 		* day in and day out
@@ -404,3 +433,14 @@
 			* heavy workload
 			* keep balance between life and work
 			* retired parents mey feel lonely at home
+		* decent job 体面的工作
+		* skydiving, bungee jumping
+		* hybrid
+		* conservative
+		* Generally speaking
+		* but on the downside ...
+		* I agree/disagree with that
+		* knock down 击倒
+		* internet famous
+		* thoughtful service 贴心的
+		* competition is not that fierce

@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9ac045336ba2667",
+            "id": "05f697a19cd6d5d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Write Note.md",
+                "file": "Write/Exam Practice.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "05f697a19cd6d5d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Speak/Topic (Part 2).png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Speak/Topic (Part 2).png",
+                "file": "Write/Exam Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Speak/Topic (Part 2).png",
+                "file": "Write/Exam Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Speak/Topic (Part 2).png"
+                "file": "Write/Exam Practice.md"
               }
             }
           }
@@ -159,39 +148,39 @@
   },
   "active": "05f697a19cd6d5d3",
   "lastOpenFiles": [
-    "Speak/ppt1405.tmp",
-    "Speak/ppt5007.tmp",
-    "Speak/ppt4558.tmp",
-    "Speak/ppt1E5.tmp",
-    "Speak/ppt2465.tmp",
-    "Speak/ppt1B6B.tmp",
-    "Speak/ppt8BBD.tmp",
-    "Speak/ppt2AA5.tmp",
-    "Speak/ppt1859.tmp",
-    "Speak/pptE5B.tmp",
-    "Speak/pptE09B.tmp",
-    "Speak/Speak Note.md",
-    "Speak/Topic (Part 2).png",
-    "Write/Exam Practice.md",
     "Write/Write Note.md",
-    "Listen/Exam Practice.md",
+    "Write/Exam Practice.md",
+    "Read/Read Note.md",
+    "Speak/Speak Note.md",
+    "Write/LY.docx",
+    "Speak/~$Part2(9-12).xlsx",
+    "Speak/Part2.pptx",
+    "Speak/pptDF0.tmp",
+    "Speak/ppt82EA.tmp",
+    "Speak/84FE5600",
+    "Speak/81FE5600",
+    "Speak/ppt95D3.tmp",
+    "Speak/ppt8C7B.tmp",
+    "Speak/ppt8E77.tmp",
+    "Speak/Topic (Part 2).png",
+    "剑雅模拟测试.md",
+    "Write/Image/2023-09-23.png",
+    "Write/Image/2023-10-07.png",
+    "Course Schedule.png",
+    "Read/Words.md",
     "Listen/Listen Note.md",
+    "Listen/Exam Practice.md",
+    "Read/Exam Practice.md",
     "Write/Image/生产流程范文.jpg",
     "Write/Image/生命循环范文.jpg",
-    "Read/Read Note.md",
-    "Course Schedule.png",
     "Listen/Word Practice.md",
     "Listen/Real Exam.md",
-    "Read/Words.md",
-    "Read/Exam Practice.md",
     "Write/Image/Homework3_1.jpg",
     "Write/Image/Homework3_1.png",
     "Write/Image/Homework3_2.png",
     "Real Exam^Archaeology-Course.md",
     "^Archaeology-Course.md",
     "Write/Image/Homework2_1.png",
-    "Write/Image/Homework2_3.png",
-    "Write/Image/Homework2_2.png",
     "Listen/同义词.md",
     "().md",
     "阅读/阅读笔记.md",

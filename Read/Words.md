@@ -161,3 +161,19 @@ belief 想法, 认为
 vivid 生动的
 hindsight 马后炮
 make a name 扬名立万
+aesthetically 审美
+inferior <-> superior 反义
+subject n. 学科, 主语, 主题, 实验对象 (research)
+学科时 <-> discipline
+be subjected to ... 遭受 <-> suffer from
+mechanical 机械的
+criteria 标准
+collide <-> collision 碰撞 <-> smash
+orbit 轨道
+inter- ...之间<->...际
+taxonomies 分类法
+pesticides 杀虫剂
+fertilizer 化肥
+a wide range of ... <-> various ... <-> different kinds of ...
+Aeroponic 气培 <-> Hydroponics 水培
+produce n. 农产品
